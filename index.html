@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>財經報告收集平台</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 20px; background-color: #f9f9f9; }
+        h1 { color: #333; }
+        table { width: 100%; border-collapse: collapse; margin-top: 20px; background-color: #fff; box-shadow: 0 1px 3px rgba(0,0,0,0.1); }
+        th, td { padding: 12px 15px; text-align: left; border-bottom: 1px solid #ddd; }
+        th { background-color: #0056b3; color: white; }
+        tr:hover { background-color: #f1f1f1; }
+        a { color: #0056b3; text-decoration: none; font-weight: bold; }
+        a:hover { text-decoration: underline; }
+        .last-updated { color: #666; font-size: 0.9em; margin-bottom: 20px; }
+    </style>
+</head>
+<body>
+    <h1>📊 最新財經報告收集平台</h1>
+    <div class="last-updated" id="status">正在載入資料...</div>
+    
+    <table>
+        <thead>
+            <tr>
+                <th>來源</th>
+                <th>日期</th>
+                <th>報告名稱</th>
+                <th>連結</th>
+            </tr>
+        </thead>
+        <tbody id="report-table-body">
+            </tbody>
+    </table>
+
+    <script>
+        // 讀取 GitHub Actions 產生的 JSON 檔案
+        fetch('data/reports.json')
+            .then(response => {
+                if (!response.ok) throw new Error("尚未產生資料，請等待 GitHub Actions 執行完畢。");
+                return response.json();
+            })
+            .then(data => {
+                document.getElementById('status').innerText = `共載入 ${data.length} 筆報告`;
+                const tbody = document.getElementById('report-table-body');
+                
+                data.forEach(report => {
+                    const row = document.createElement('tr');
+                    row.innerHTML = `
+                        <td>${report.Source}</td>
+                        <td>${report.Date}</td>
+                        <td>${report.Name}</td>
+                        <td><a href="${report.Link}" target="_blank">📄 下載 PDF</a></td>
+                    `;
+                    tbody.appendChild(row);
+                });
+            })
+            .catch(error => {
+                document.getElementById('status').innerText = error.message;
+            });
+    </script>
+</body>
+</html>
