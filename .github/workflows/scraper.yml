@@ -1,0 +1,36 @@
+name: Daily Report Scraper
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # 每天早上 8 點自動跑
+  workflow_dispatch:    # 允許手動點擊執行
+
+# 設定權限，允許機器人把爬到的資料存回 GitHub
+permissions:
+  contents: write
+
+jobs:
+  scrape-and-update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install Dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run Scraper
+        run: python main.py
+
+      - name: Commit and Push Data
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/reports.json
+          # 如果資料有更新才 commit，沒更新就不做動作
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update reports data" && git push)
