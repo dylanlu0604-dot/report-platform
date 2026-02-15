@@ -1,23 +1,37 @@
 import json
 import os
-from scrapers import nli, jri, mizuho, dir_report, sony_fg
+import importlib
+import pkgutil
+import scrapers  # 引入整個 scrapers 資料夾
 
 def main():
     print(f"\n{'='*60}")
-    print("開始執行獨立模組化爬蟲...")
+    print("開始執行獨立模組化爬蟲 (自動偵測模式)...")
     print(f"{'='*60}\n")
     
     all_reports = []
     
-    # 未來如果要新增網站，只要把模組加進這個 List 即可！
-    scrapers = [nli, jri, mizuho, dir_report, sony_fg]
-    
-    for scraper in scrapers:
+    # 🌟 魔法在這裡：自動掃描 scrapers 資料夾下的所有 .py 檔案
+    for _, module_name, _ in pkgutil.iter_modules(scrapers.__path__):
+        
+        # 排除 utils.py (因為它只是工具箱，不是爬蟲)
+        if module_name == "utils":
+            continue
+            
         try:
-            results = scraper.scrape()
-            all_reports.extend(results)
+            # 動態載入模組 (等同於 import scrapers.xxx)
+            module = importlib.import_module(f"scrapers.{module_name}")
+            
+            # 確保這個檔案裡面有寫 scrape() 這個函數，才叫它工作
+            if hasattr(module, "scrape"):
+                results = module.scrape()
+                if results:
+                    all_reports.extend(results)
+            else:
+                print(f"⚠️ 略過 {module_name}.py (找不到 scrape 函數)")
+                
         except Exception as e:
-            print(f"❌ 執行失敗: {e}")
+            print(f"❌ 載入或執行 {module_name} 失敗: {e}")
 
     if not all_reports:
         print("\n❌ 未抓到任何資料")
