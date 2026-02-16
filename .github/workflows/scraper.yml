@@ -33,6 +33,5 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/reports.json
-          # 如果資料有更新才 commit，沒更新就不做動作
+          git add data/
           git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update reports data" && git push)
