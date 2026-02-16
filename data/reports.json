@@ -1,5 +1,197 @@
 [
   {
+    "Source": "DIR",
+    "Date": "2026年02月12日",
+    "Name": "非農業部門雇用者数は前月差＋13.0万人",
+    "Link": "https://www.dir.co.jp/report/research/economics/usa/20260212_025579.pdf"
+  },
+  {
+    "Source": "DIR",
+    "Date": "2026年02月06日",
+    "Name": "2025年12月消費統計",
+    "Link": "https://www.dir.co.jp/report/research/economics/japan/20260206_025577.pdf"
+  },
+  {
+    "Source": "DIR",
+    "Date": "2026年02月06日",
+    "Name": "理系進路選択に対する男女差の要因分析",
+    "Link": "https://www.dir.co.jp/report/research/economics/japan/20260206_025576.pdf"
+  },
+  {
+    "Source": "DIR",
+    "Date": "2026年02月05日",
+    "Name": "インド2026年度予算案：インフラ投資に軸足を移す",
+    "Link": "https://www.dir.co.jp/report/research/economics/emg/20260205_025573.pdf"
+  },
+  {
+    "Source": "DIR",
+    "Date": "2026年02月03日",
+    "Name": "ウォーシュ氏が目指すのは、FRB版「ドンロー主義」か？",
+    "Link": "https://www.dir.co.jp/report/research/economics/usa/20260203_025570.pdf"
+  },
+  {
+    "Source": "DIR",
+    "Date": "2026年02月02日",
+    "Name": "10-12月期ユーロ圏GDP　内需主導で成長加速",
+    "Link": "https://www.dir.co.jp/report/research/economics/europe/20260202_025567.pdf"
+  },
+  {
+    "Source": "DIR",
+    "Date": "2026年01月30日",
+    "Name": "2025年12月鉱工業生産",
+    "Link": "https://www.dir.co.jp/report/research/economics/japan/20260130_025564.pdf"
+  },
+  {
+    "Source": "DIR",
+    "Date": "2026年01月30日",
+    "Name": "2025年10-12月期GDP（1次速報）予測～前期比年率＋0.7％を予想",
+    "Link": "https://www.dir.co.jp/report/research/economics/japan/20260130_025563.pdf"
+  },
+  {
+    "Source": "DIR",
+    "Date": "2026年01月30日",
+    "Name": "2025年12月雇用統計",
+    "Link": "https://www.dir.co.jp/report/research/economics/japan/20260130_025561.pdf"
+  },
+  {
+    "Source": "DIR",
+    "Date": "2026年01月29日",
+    "Name": "FOMC 4会合ぶりに金利据え置きを決定",
+    "Link": "https://www.dir.co.jp/report/research/economics/usa/20260129_025560.pdf"
+  },
+  {
+    "Source": "DIR",
+    "Date": "2026年01月28日",
+    "Name": "AIの社会実装と加速するインフラ投資",
+    "Link": "https://www.dir.co.jp/report/research/economics/japan/20260128_025556.pdf"
+  },
+  {
+    "Source": "JRI",
+    "Date": "2026年02月09日",
+    "Name": "欧州経済展望2026年２月号：欧州防衛費拡大、供給は追いつかず（PDF：984KB）",
+    "Link": "https://www.jri.co.jp/file/report/euro/pdf/16454.pdf"
+  },
+  {
+    "Source": "JRI",
+    "Date": "2026年02月06日",
+    "Name": "原油市場展望2026年2月号　～トピック：影響力増す西半球の生産動向（PDF：824KB）",
+    "Link": "https://www.jri.co.jp/file/report/oil/pdf/16452.pdf"
+  },
+  {
+    "Source": "JRI",
+    "Date": "2026年02月03日",
+    "Name": "為替相場展望2026年２月号：◆ドル円：先行き横ばい圏で推移◆ユーロ：対ドルは緩やかなユーロ高へ（PDF：889KB）",
+    "Link": "https://www.jri.co.jp/file/report/exchange/pdf/16447.pdf"
+  },
+  {
+    "Source": "JRI",
+    "Date": "2026年01月29日",
+    "Name": "中国経済展望2026年2月号：2025年は成長目標達成も、足元の景気は停滞（PDF：915KB）",
+    "Link": "https://www.jri.co.jp/file/report/china/pdf/16437.pdf"
+  },
+  {
+    "Source": "JRI",
+    "Date": "2026年01月28日",
+    "Name": "アジア・マンスリー2026年2月号 （PDF：1527KB）",
+    "Link": "https://www.jri.co.jp/file/report/asia/pdf/16434.pdf"
+  },
+  {
+    "Source": "JRI",
+    "Date": "2026年01月22日",
+    "Name": "米国経済展望2026年１月号：トピック：高まる財政収支悪化リスク（PDF：1019KB）",
+    "Link": "https://www.jri.co.jp/file/report/usa/pdf/16422.pdf"
+  },
+  {
+    "Source": "JRI",
+    "Date": "2026年01月19日",
+    "Name": "欧州経済展望2026年１月号：ＥＵのＥＶ方針転換、需給両面に残る課題（PDF：1051KB）",
+    "Link": "https://www.jri.co.jp/file/report/euro/pdf/16408.pdf"
+  },
+  {
+    "Source": "Mizuho",
+    "Date": "2026年2月10日",
+    "Name": "［MHRT Global Watch］2026年2月10日号",
+    "Link": "https://www.mizuho-rt.co.jp/business/research/report/pdf/global-watch260210.pdf"
+  },
+  {
+    "Source": "Mizuho",
+    "Date": "2026年2月3日",
+    "Name": "［みずほインサイト］ユーロ圏失業率は歴史的低水準",
+    "Link": "https://www.mizuho-rt.co.jp/business/research/report/pdf/insight-eu260203.pdf"
+  },
+  {
+    "Source": "Mizuho",
+    "Date": "2026年2月3日",
+    "Name": "［MHRT Global Watch］2026年2月3日号",
+    "Link": "https://www.mizuho-rt.co.jp/business/research/report/pdf/global-watch260203.pdf"
+  },
+  {
+    "Source": "Mizuho",
+    "Date": "2026年2月2日",
+    "Name": "［みずほインサイト］企業のビジネス革新投資が生む生産性上昇のシナジー効果",
+    "Link": "https://www.mizuho-rt.co.jp/business/research/report/pdf/insight-jp260202.pdf"
+  },
+  {
+    "Source": "Mizuho",
+    "Date": "2026年1月30日",
+    "Name": "［QE予測］年率＋2.4％とプラス成長を予測（10～12月期1次QE） (PDF/688KB)",
+    "Link": "https://www.mizuho-rt.co.jp/business/research/report/pdf/qe-summary260130.pdf"
+  },
+  {
+    "Source": "Mizuho",
+    "Date": "2026年1月30日",
+    "Name": "［みずほインサイト］まだら模様のアジアの個人消費",
+    "Link": "https://www.mizuho-rt.co.jp/business/research/report/pdf/insight-as260130.pdf"
+  },
+  {
+    "Source": "Mizuho",
+    "Date": "2026年1月29日",
+    "Name": "［みずほインサイト］日本の食品インフレの行方",
+    "Link": "https://www.mizuho-rt.co.jp/business/research/report/pdf/insight-jp260129.pdf"
+  },
+  {
+    "Source": "Mizuho",
+    "Date": "2026年1月28日",
+    "Name": "［門間一夫の経済深読み］「働き方」を巡る議論が忘れてはならない視点 (PDF/427KB)",
+    "Link": "https://www.mizuho-rt.co.jp/business/research/executive/pdf/km_c260128.pdf"
+  },
+  {
+    "Source": "Mizuho",
+    "Date": "2026年1月27日",
+    "Name": "［MHRT Global Watch］2026年1月27日号",
+    "Link": "https://www.mizuho-rt.co.jp/business/research/report/pdf/global-watch260127.pdf"
+  },
+  {
+    "Source": "Mizuho",
+    "Date": "2026年1月26日",
+    "Name": "［みずほ経済・金融マンスリー］（2026年1月26日）",
+    "Link": "https://www.mizuho-rt.co.jp/business/research/report/pdf/monthly260126.pdf"
+  },
+  {
+    "Source": "Mizuho",
+    "Date": "2026年1月22日",
+    "Name": "［Mizuho RT EXPRESS］グリーンランド問題に揺れる欧州",
+    "Link": "https://www.mizuho-rt.co.jp/business/research/report/pdf/express-eu260122.pdf"
+  },
+  {
+    "Source": "Mizuho",
+    "Date": "2026年1月22日",
+    "Name": "［Mizuho RT EXPRESS］中国レアアース輸出規制の日本経済への影響",
+    "Link": "https://www.mizuho-rt.co.jp/business/research/report/pdf/express-jp260122.pdf"
+  },
+  {
+    "Source": "Mizuho",
+    "Date": "2026年1月21日",
+    "Name": "［MHRT Global Watch］2026年1月21日号",
+    "Link": "https://www.mizuho-rt.co.jp/business/research/report/pdf/global-watch260121.pdf"
+  },
+  {
+    "Source": "Mizuho",
+    "Date": "2026年1月20日",
+    "Name": "［みずほリポート］政権発足1年からみえた『トランプ流国家資本主義』の正体",
+    "Link": "https://www.mizuho-rt.co.jp/business/research/report/pdf/report260120.pdf"
+  },
+  {
     "Source": "NLI",
     "Date": "2026年02月13日",
     "Name": "マレーシアGDP（2025年10-12月期）～内需主導で６％台成長、投資拡大が成長を牽引",
@@ -94,228 +286,6 @@
     "Date": "2026年01月30日",
     "Name": "雇用関連統計25年12月－有効求人倍率が9ヵ月ぶりに上昇",
     "Link": "https://www.nli-research.co.jp/files/topics/84518_ext_18_0.pdf?site=nli"
-  },
-  {
-    "Source": "JRI",
-    "Date": "未知日期",
-    "Name": "会社案内（PDF版）",
-    "Link": "https://www.jri.co.jp/file/pdf/company/companyprofile/202506.pdf"
-  },
-  {
-    "Source": "JRI",
-    "Date": "未知日期",
-    "Name": "インターンシップ",
-    "Link": "http://www.jri-career.com/internship.html"
-  },
-  {
-    "Source": "JRI",
-    "Date": "2026年02月09",
-    "Name": "欧州経済展望2026年２月号：欧州防衛費拡大、供給は追いつかず（PDF：984KB）",
-    "Link": "https://www.jri.co.jp/file/report/euro/pdf/16454.pdf"
-  },
-  {
-    "Source": "JRI",
-    "Date": "2026年02月06",
-    "Name": "原油市場展望2026年2月号　～トピック：影響力増す西半球の生産動向（PDF：824KB）",
-    "Link": "https://www.jri.co.jp/file/report/oil/pdf/16452.pdf"
-  },
-  {
-    "Source": "JRI",
-    "Date": "2026年02月03",
-    "Name": "為替相場展望2026年２月号：◆ドル円：先行き横ばい圏で推移◆ユーロ：対ドルは緩やかなユーロ高へ（PDF：889KB）",
-    "Link": "https://www.jri.co.jp/file/report/exchange/pdf/16447.pdf"
-  },
-  {
-    "Source": "JRI",
-    "Date": "2026年01月29",
-    "Name": "中国経済展望2026年2月号：2025年は成長目標達成も、足元の景気は停滞（PDF：915KB）",
-    "Link": "https://www.jri.co.jp/file/report/china/pdf/16437.pdf"
-  },
-  {
-    "Source": "JRI",
-    "Date": "2026年01月28",
-    "Name": "アジア・マンスリー2026年2月号 （PDF：1527KB）",
-    "Link": "https://www.jri.co.jp/file/report/asia/pdf/16434.pdf"
-  },
-  {
-    "Source": "JRI",
-    "Date": "2026年01月22",
-    "Name": "米国経済展望2026年１月号：トピック：高まる財政収支悪化リスク（PDF：1019KB）",
-    "Link": "https://www.jri.co.jp/file/report/usa/pdf/16422.pdf"
-  },
-  {
-    "Source": "JRI",
-    "Date": "2026年01月19",
-    "Name": "欧州経済展望2026年１月号：ＥＵのＥＶ方針転換、需給両面に残る課題（PDF：1051KB）",
-    "Link": "https://www.jri.co.jp/file/report/euro/pdf/16408.pdf"
-  },
-  {
-    "Source": "JRI",
-    "Date": "未知日期",
-    "Name": "YouTube",
-    "Link": "https://www.youtube.com/channel/UCe5yA8PqQPQAKMeJEtNddig"
-  },
-  {
-    "Source": "JRI",
-    "Date": "未知日期",
-    "Name": "調査部X（旧Twitter）",
-    "Link": "https://twitter.com/jri_eco"
-  },
-  {
-    "Source": "JRI",
-    "Date": "未知日期",
-    "Name": "キャリア採用",
-    "Link": "https://www.jri-career.com/career"
-  },
-  {
-    "Source": "Mizuho",
-    "Date": "2026年2月10日",
-    "Name": "［MHRT Global Watch］2026年2月10日号",
-    "Link": "https://www.mizuho-rt.co.jp/business/research/report/pdf/global-watch260210.pdf"
-  },
-  {
-    "Source": "Mizuho",
-    "Date": "2026年2月3日",
-    "Name": "［みずほインサイト］ユーロ圏失業率は歴史的低水準",
-    "Link": "https://www.mizuho-rt.co.jp/business/research/report/pdf/insight-eu260203.pdf"
-  },
-  {
-    "Source": "Mizuho",
-    "Date": "2026年2月3日",
-    "Name": "［MHRT Global Watch］2026年2月3日号",
-    "Link": "https://www.mizuho-rt.co.jp/business/research/report/pdf/global-watch260203.pdf"
-  },
-  {
-    "Source": "Mizuho",
-    "Date": "2026年2月2日",
-    "Name": "［みずほインサイト］企業のビジネス革新投資が生む生産性上昇のシナジー効果",
-    "Link": "https://www.mizuho-rt.co.jp/business/research/report/pdf/insight-jp260202.pdf"
-  },
-  {
-    "Source": "Mizuho",
-    "Date": "2026年1月30日",
-    "Name": "［QE予測］年率＋2.4％とプラス成長を予測（10～12月期1次QE） (PDF/688KB)",
-    "Link": "https://www.mizuho-rt.co.jp/business/research/report/pdf/qe-summary260130.pdf"
-  },
-  {
-    "Source": "Mizuho",
-    "Date": "2026年1月30日",
-    "Name": "［みずほインサイト］まだら模様のアジアの個人消費",
-    "Link": "https://www.mizuho-rt.co.jp/business/research/report/pdf/insight-as260130.pdf"
-  },
-  {
-    "Source": "Mizuho",
-    "Date": "2026年1月29日",
-    "Name": "［みずほインサイト］日本の食品インフレの行方",
-    "Link": "https://www.mizuho-rt.co.jp/business/research/report/pdf/insight-jp260129.pdf"
-  },
-  {
-    "Source": "Mizuho",
-    "Date": "2026年1月28日",
-    "Name": "［門間一夫の経済深読み］「働き方」を巡る議論が忘れてはならない視点 (PDF/427KB)",
-    "Link": "https://www.mizuho-rt.co.jp/business/research/executive/pdf/km_c260128.pdf"
-  },
-  {
-    "Source": "Mizuho",
-    "Date": "2026年1月27日",
-    "Name": "［MHRT Global Watch］2026年1月27日号",
-    "Link": "https://www.mizuho-rt.co.jp/business/research/report/pdf/global-watch260127.pdf"
-  },
-  {
-    "Source": "Mizuho",
-    "Date": "2026年1月26日",
-    "Name": "［みずほ経済・金融マンスリー］（2026年1月26日）",
-    "Link": "https://www.mizuho-rt.co.jp/business/research/report/pdf/monthly260126.pdf"
-  },
-  {
-    "Source": "Mizuho",
-    "Date": "2026年1月22日",
-    "Name": "［Mizuho RT EXPRESS］グリーンランド問題に揺れる欧州",
-    "Link": "https://www.mizuho-rt.co.jp/business/research/report/pdf/express-eu260122.pdf"
-  },
-  {
-    "Source": "Mizuho",
-    "Date": "2026年1月22日",
-    "Name": "［Mizuho RT EXPRESS］中国レアアース輸出規制の日本経済への影響",
-    "Link": "https://www.mizuho-rt.co.jp/business/research/report/pdf/express-jp260122.pdf"
-  },
-  {
-    "Source": "Mizuho",
-    "Date": "2026年1月21日",
-    "Name": "［MHRT Global Watch］2026年1月21日号",
-    "Link": "https://www.mizuho-rt.co.jp/business/research/report/pdf/global-watch260121.pdf"
-  },
-  {
-    "Source": "Mizuho",
-    "Date": "2026年1月20日",
-    "Name": "［みずほリポート］政権発足1年からみえた『トランプ流国家資本主義』の正体",
-    "Link": "https://www.mizuho-rt.co.jp/business/research/report/pdf/report260120.pdf"
-  },
-  {
-    "Source": "DIR",
-    "Date": "2026年02月12日",
-    "Name": "非農業部門雇用者数は前月差＋13.0万人",
-    "Link": "https://www.dir.co.jp/report/research/economics/usa/20260212_025579.pdf"
-  },
-  {
-    "Source": "DIR",
-    "Date": "2026年02月06日",
-    "Name": "2025年12月消費統計",
-    "Link": "https://www.dir.co.jp/report/research/economics/japan/20260206_025577.pdf"
-  },
-  {
-    "Source": "DIR",
-    "Date": "2026年02月06日",
-    "Name": "理系進路選択に対する男女差の要因分析",
-    "Link": "https://www.dir.co.jp/report/research/economics/japan/20260206_025576.pdf"
-  },
-  {
-    "Source": "DIR",
-    "Date": "2026年02月05日",
-    "Name": "インド2026年度予算案：インフラ投資に軸足を移す",
-    "Link": "https://www.dir.co.jp/report/research/economics/emg/20260205_025573.pdf"
-  },
-  {
-    "Source": "DIR",
-    "Date": "2026年02月03日",
-    "Name": "ウォーシュ氏が目指すのは、FRB版「ドンロー主義」か？",
-    "Link": "https://www.dir.co.jp/report/research/economics/usa/20260203_025570.pdf"
-  },
-  {
-    "Source": "DIR",
-    "Date": "2026年02月02日",
-    "Name": "10-12月期ユーロ圏GDP　内需主導で成長加速",
-    "Link": "https://www.dir.co.jp/report/research/economics/europe/20260202_025567.pdf"
-  },
-  {
-    "Source": "DIR",
-    "Date": "2026年01月30日",
-    "Name": "2025年12月鉱工業生産",
-    "Link": "https://www.dir.co.jp/report/research/economics/japan/20260130_025564.pdf"
-  },
-  {
-    "Source": "DIR",
-    "Date": "2026年01月30日",
-    "Name": "2025年10-12月期GDP（1次速報）予測～前期比年率＋0.7％を予想",
-    "Link": "https://www.dir.co.jp/report/research/economics/japan/20260130_025563.pdf"
-  },
-  {
-    "Source": "DIR",
-    "Date": "2026年01月30日",
-    "Name": "2025年12月雇用統計",
-    "Link": "https://www.dir.co.jp/report/research/economics/japan/20260130_025561.pdf"
-  },
-  {
-    "Source": "DIR",
-    "Date": "2026年01月29日",
-    "Name": "FOMC 4会合ぶりに金利据え置きを決定",
-    "Link": "https://www.dir.co.jp/report/research/economics/usa/20260129_025560.pdf"
-  },
-  {
-    "Source": "DIR",
-    "Date": "2026年01月28日",
-    "Name": "AIの社会実装と加速するインフラ投資",
-    "Link": "https://www.dir.co.jp/report/research/economics/japan/20260128_025556.pdf"
   },
   {
     "Source": "Sony FG",
