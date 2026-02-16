@@ -54,18 +54,6 @@ def main():
         json.dump(unique_reports, f, ensure_ascii=False, indent=2)
         
     print(f"✅ 成功將 {len(unique_reports)} 筆資料儲存至 data/reports.json")
-    print(f"{'='*60}")
-
-if __name__ == "__main__":
-    main()
-
-
-# 建立 data 資料夾並儲存為 JSON (原本就有的程式碼)
-    os.makedirs('data', exist_ok=True)
-    with open('data/reports.json', 'w', encoding='utf-8') as f:
-        json.dump(unique_reports, f, ensure_ascii=False, indent=2)
-        
-    print(f"✅ 成功將 {len(unique_reports)} 筆資料儲存至 data/reports.json")
 
     # ==========================================
     # 🌟 新增：產生 NotebookLM 專用的 Markdown 檔案
@@ -83,4 +71,9 @@ if __name__ == "__main__":
         f.write(md_content)
         
     print(f"✅ 成功產出 NotebookLM 專用檔至 data/reports_for_notebooklm.md")
+    print(f"{'='*60}")
     # ==========================================
+
+# 這是整個程式的啟動點，必須放在最外層、最下面
+if __name__ == "__main__":
+    main()
