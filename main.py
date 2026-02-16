@@ -58,3 +58,29 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+# 建立 data 資料夾並儲存為 JSON (原本就有的程式碼)
+    os.makedirs('data', exist_ok=True)
+    with open('data/reports.json', 'w', encoding='utf-8') as f:
+        json.dump(unique_reports, f, ensure_ascii=False, indent=2)
+        
+    print(f"✅ 成功將 {len(unique_reports)} 筆資料儲存至 data/reports.json")
+
+    # ==========================================
+    # 🌟 新增：產生 NotebookLM 專用的 Markdown 檔案
+    # ==========================================
+    md_content = "# 📊 最新財經與總經分析報告總覽\n\n"
+    md_content += "這是一份自動彙整的日本主要研究機構報告清單，請協助我掌握近期的宏觀經濟與金融市場趨勢。\n\n"
+    
+    for report in unique_reports:
+        md_content += f"### {report['Name']}\n"
+        md_content += f"- **發布機構**: {report['Source']}\n"
+        md_content += f"- **發布日期**: {report['Date']}\n"
+        md_content += f"- **報告連結**: {report['Link']}\n\n"
+        
+    with open('data/reports_for_notebooklm.md', 'w', encoding='utf-8') as f:
+        f.write(md_content)
+        
+    print(f"✅ 成功產出 NotebookLM 專用檔至 data/reports_for_notebooklm.md")
+    # ==========================================
