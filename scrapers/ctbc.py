@@ -27,16 +27,18 @@ def scrape():
             page = context.new_page()
             
             print("  🌐 啟動 Playwright 載入動態網頁...")
-            # 前往目標網頁，等待網路閒置
-            page.goto(target_url, wait_until="networkidle", timeout=30000)
             
-            # 給予額外時間確保畫面上的報告列表已經渲染
+            # 👉 修改 1：將 networkidle 改為 domcontentloaded，並將超時時間拉長到 60 秒以適應 GitHub Actions
             try:
-                page.wait_for_selector('a', timeout=10000)
-                time.sleep(3) 
+                page.goto(target_url, wait_until="domcontentloaded", timeout=60000)
             except PlaywrightTimeoutError:
-                print("  ⚠️ 等待特定元素超時，嘗試直接解析當前頁面...")
+                print("  ⚠️ 網頁基本結構載入超時，但可能已部分渲染，繼續嘗試擷取...")
+
+            # 👉 修改 2：拉長手動等待時間。因為我們放棄了 networkidle，所以多給 JS 一點時間生出報告列表
+            print("  ⏳ 等待動態內容渲染...")
+            time.sleep(8) 
             
+            # 獲取渲染後的完整 HTML
             html_content = page.content()
             soup = BeautifulSoup(html_content, 'html.parser')
             print(f"  📄 渲染後頁面大小: {len(html_content):,} 字元")
