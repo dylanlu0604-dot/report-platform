@@ -2,71 +2,78 @@ import re
 import time
 from urllib.parse import urljoin, unquote
 from bs4 import BeautifulSoup
-from playwright.sync_api import sync_playwright, TimeoutError as PlaywrightTimeoutError
-
-# 假設這是你原本專案中的 utils，請確認路徑正確
+from playwright.sync_api import sync_playwright, TimeoutError as PlaywrightTimeoutError, Error as PlaywrightError
 from scrapers.utils import HEADERS, is_within_30_days
 
 def scrape():
     """
-    中國信託銀行 - 市場評論爬蟲 (Playwright 動態渲染 + CTBC API 支援版)
+    中國信託銀行 - 市場評論爬蟲 (增強版)
+    
+    改進:
+    1. 增加重試機制處理網路錯誤
+    2. 降級策略: Playwright失敗時使用requests
+    3. 更好的錯誤處理
     """
     print("🔍 正在爬取 CTBC (中國信託銀行 - 市場評論)...")
     reports = []
-    seen_urls = set()
     
     base_url = "https://www.ctbcbank.com"
     target_url = "https://www.ctbcbank.com/twrbo/zh_tw/wm_index/wm_investreport/market-comment.html"
     
+    # 嘗試使用 Playwright (最多重試 3 次)
+    html_content = None
+    for attempt in range(3):
+        try:
+            html_content = scrape_with_playwright(target_url, attempt + 1)
+            if html_content:
+                break
+        except Exception as e:
+            print(f"  ⚠️ Playwright 嘗試 {attempt + 1}/3 失敗: {type(e).__name__}")
+            if attempt < 2:
+                time.sleep(5)  # 等待 5 秒後重試
+    
+    # 如果 Playwright 完全失敗,降級使用 requests
+    if not html_content:
+        print("  🔄 Playwright 失敗,降級使用 requests...")
+        try:
+            import requests
+            resp = requests.get(target_url, headers=HEADERS, timeout=30)
+            html_content = resp.text
+            print(f"  ✓ requests 成功獲取頁面 ({len(html_content):,} 字元)")
+        except Exception as e:
+            print(f"  ❌ requests 也失敗: {e}")
+            return reports
+    
+    # 解析 HTML
     try:
-        with sync_playwright() as p:
-            browser = p.chromium.launch(headless=True)
-            context = browser.new_context(
-                user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-            )
-            page = context.new_page()
-            
-            print("  🌐 啟動 Playwright 載入動態網頁...")
-            
-            # 👉 修改 1：將 networkidle 改為 domcontentloaded，並將超時時間拉長到 60 秒以適應 GitHub Actions
-            try:
-                page.goto(target_url, wait_until="domcontentloaded", timeout=60000)
-            except PlaywrightTimeoutError:
-                print("  ⚠️ 網頁基本結構載入超時，但可能已部分渲染，繼續嘗試擷取...")
-
-            # 👉 修改 2：拉長手動等待時間。因為我們放棄了 networkidle，所以多給 JS 一點時間生出報告列表
-            print("  ⏳ 等待動態內容渲染...")
-            time.sleep(8) 
-            
-            # 獲取渲染後的完整 HTML
-            html_content = page.content()
-            soup = BeautifulSoup(html_content, 'html.parser')
-            print(f"  📄 渲染後頁面大小: {len(html_content):,} 字元")
-            
-            browser.close()
-
-        # ==========================================
-        # 策略 1: 廣域 PDF 搜尋 (加入 CTBC 專屬 API 格式)
-        # ==========================================
+        soup = BeautifulSoup(html_content, 'html.parser')
+        seen_urls = set()
+        
+        # 策略 1: 廣域 PDF 搜尋
         print("  [策略 1] 廣域 PDF 搜尋...")
         
-        pdf_urls_raw = re.findall(r'["\']([^"\']*\.pdf[^"\']*)["\']', html_content, re.IGNORECASE)
+        pdf_urls_raw = []
+        
+        # 方法 A: 正則搜尋
+        pdf_urls_raw.extend(re.findall(r'["\']([^"\']*\.pdf[^"\']*)["\']', html_content, re.IGNORECASE))
         pdf_urls_raw.extend(re.findall(r'href=["\']([^"\']*\.pdf[^"\']*)["\']', html_content, re.IGNORECASE))
         pdf_urls_raw.extend(re.findall(r'(https?://[^\s<>"\']+\.pdf)', html_content, re.IGNORECASE))
         
-        # 擷取 CTBC 專屬的報告 API 連結
+        # CTBC 專屬的 API 格式
         pdf_urls_raw.extend(re.findall(r'(/IB/api/adapters/IB_Adapter/resource/report/[^"\']+)', html_content, re.IGNORECASE))
         
+        # 方法 B: BeautifulSoup
         for link in soup.find_all('a', href=True):
             href = link.get('href', '')
             if '.pdf' in href.lower() or '/resource/report/' in href.lower():
                 pdf_urls_raw.append(href)
         
+        # 方法 C: data 屬性
         for elem in soup.find_all(attrs={'data-url': True}):
             url = elem.get('data-url', '')
             if '.pdf' in url.lower() or '/resource/report/' in url.lower():
                 pdf_urls_raw.append(url)
-                
+        
         for elem in soup.find_all(attrs={'data-href': True}):
             url = elem.get('data-href', '')
             if '.pdf' in url.lower() or '/resource/report/' in url.lower():
@@ -84,27 +91,27 @@ def scrape():
         
         print(f"    找到 {len(target_urls)} 個目標 URL")
         
-        for target_url in target_urls:
-            title, date_text = extract_info_from_url(target_url)
+        # 處理每個 URL
+        for target_url_item in target_urls:
+            title, date_text = extract_info_from_url(target_url_item)
             
-            # 如果 URL 沒資訊，嘗試找對應的 HTML 標籤
+            # 如果 URL 沒資訊,嘗試從 HTML 提取
             if not title or not date_text:
-                link = soup.find('a', href=lambda x: x and target_url in urljoin(base_url, x))
+                link = soup.find('a', href=lambda x: x and target_url_item in urljoin(base_url, x))
                 
-                # 如果用精準 href 找不到，試著找包含這段 report_id 的任何 UI 容器
                 if not link:
-                    report_id = target_url.split('/')[-1]
+                    report_id = target_url_item.split('/')[-1]
                     link = soup.find(lambda tag: tag.name in ['a', 'div', 'li', 'td'] and report_id in str(tag))
-
+                
                 if link:
                     if not title:
                         title = extract_title_from_link(link)
                     if not date_text:
                         date_text = extract_date_from_link(link)
             
-            # 如果還是沒標題，用檔名
+            # 如果還是沒標題,用檔名
             if not title or len(title) < 5:
-                filename = unquote(target_url.split('/')[-1].replace('.pdf', '').replace('.PDF', ''))
+                filename = unquote(target_url_item.split('/')[-1].replace('.pdf', '').replace('.PDF', ''))
                 title = filename
             
             # 沒日期就跳過
@@ -122,44 +129,99 @@ def scrape():
                 "Source": "CTBC",
                 "Date": date_text,
                 "Name": title,
-                "Link": target_url
+                "Link": target_url_item
             })
-            
-        # ==========================================
-        # 策略 2: 如果沒找到,搜尋所有可能的報告連結
-        # ==========================================
+        
+        # 策略 2: 報告連結搜尋
         if len(reports) == 0:
             print("  [策略 2] 搜尋報告連結...")
+            
             keywords = [
                 '報告', '評論', '分析', '市場', '展望', '觀點',
-                'report', 'analysis', 'market', 'comment', 'review',
-                '月報', '週報', '日報', '專題', '研究'
+                'report', 'analysis', 'market', 'comment', 'review'
             ]
             
-            report_links = []
+            report_count = 0
             for link in soup.find_all('a', href=True):
                 href = link.get('href', '')
-                link_text = link.get_text(strip=True)
+                text = link.get_text(strip=True)
                 
                 if any(exclude in href.lower() for exclude in ['javascript:', 'mailto:', '#']):
                     continue
                 
-                if any(kw in link_text or kw in href for kw in keywords):
-                    full_url = urljoin(base_url, href)
-                    if 'ctbcbank.com' in full_url and full_url not in seen_urls:
-                        report_links.append((full_url, link_text))
-                        seen_urls.add(full_url)
+                if any(kw in text or kw in href for kw in keywords):
+                    report_count += 1
             
-            print(f"    找到 {len(report_links)} 個可能的報告連結")
-            # 由於策略 1 已經涵蓋了 API，策略 2 僅作備用，這裡省略後續進階爬取以保持輕量
-
+            print(f"    找到 {report_count} 個可能的報告連結")
+    
     except Exception as e:
-        print(f"  ❌ CTBC 爬取失敗: {e}")
+        print(f"  ❌ HTML 解析失敗: {e}")
         import traceback
         traceback.print_exc()
     
     print(f"  ✅ CTBC 找到 {len(reports)} 筆報告")
     return reports
+
+
+def scrape_with_playwright(url, attempt):
+    """
+    使用 Playwright 抓取頁面
+    
+    Args:
+        url: 目標 URL
+        attempt: 當前是第幾次嘗試
+    
+    Returns:
+        HTML 內容或 None
+    """
+    print(f"  🌐 Playwright 嘗試 {attempt}/3...")
+    
+    try:
+        with sync_playwright() as p:
+            # 配置瀏覽器
+            browser = p.chromium.launch(
+                headless=True,
+                args=[
+                    '--disable-dev-shm-usage',  # 避免共享記憶體問題
+                    '--no-sandbox',             # GitHub Actions 需要
+                    '--disable-setuid-sandbox'
+                ]
+            )
+            
+            context = browser.new_context(
+                user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+                viewport={'width': 1920, 'height': 1080}
+            )
+            
+            page = context.new_page()
+            
+            # 設置較短的超時,失敗就快速重試
+            try:
+                page.goto(url, wait_until="domcontentloaded", timeout=30000)
+                print(f"    ✓ 頁面載入成功")
+            except PlaywrightTimeoutError:
+                print(f"    ⚠️ 載入超時,但繼續嘗試...")
+            except PlaywrightError as e:
+                if "ERR_NETWORK_CHANGED" in str(e):
+                    print(f"    ⚠️ 網路切換錯誤,將重試...")
+                    browser.close()
+                    return None
+                raise
+            
+            # 等待動態內容
+            print(f"    ⏳ 等待動態內容 (5秒)...")
+            time.sleep(5)
+            
+            # 獲取內容
+            html_content = page.content()
+            print(f"    ✓ 獲取頁面內容 ({len(html_content):,} 字元)")
+            
+            browser.close()
+            return html_content
+            
+    except Exception as e:
+        print(f"    ✗ 失敗: {type(e).__name__}")
+        return None
 
 
 def extract_info_from_url(url):
@@ -188,7 +250,7 @@ def extract_info_from_url(url):
         title = re.sub(r'20\d{2}[年_\-/]\d{1,2}[月_\-/]\d{1,2}[日]?', '', filename)
         title = re.sub(r'20\d{2}\d{2}\d{2}', '', title)
         
-        # 如果去蕪存菁後，標題只剩下流水號 (如 -C-30-0)，強制設為 None，讓程式去抓 HTML 裡的中文標題
+        # 如果只剩流水號,設為 None
         if re.match(r'^[-_A-Za-z0-9]+$', title.strip()):
             title = None
     else:
