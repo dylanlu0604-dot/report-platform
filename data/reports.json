@@ -1,6 +1,24 @@
 [
   {
     "Source": "DIR",
+    "Date": "2026年02月25日",
+    "Name": "主要国経済Outlook 2026年3月号（No.472）",
+    "Link": "https://www.dir.co.jp/report/research/economics/outlook/20260225_025601.pdf"
+  },
+  {
+    "Source": "DIR",
+    "Date": "2026年02月25日",
+    "Name": "2026年もトランプ関税に翻弄される世界経済",
+    "Link": "https://www.dir.co.jp/report/research/economics/outlook/20260225_025600.pdf"
+  },
+  {
+    "Source": "DIR",
+    "Date": "2026年02月25日",
+    "Name": "米国経済見通し　IEEPA関税は無効化",
+    "Link": "https://www.dir.co.jp/report/research/economics/usa/20260225_025597.pdf"
+  },
+  {
+    "Source": "DIR",
     "Date": "2026年02月24日",
     "Name": "欧州経済見通し　財政拡張の効果が拡大",
     "Link": "https://www.dir.co.jp/report/research/economics/europe/20260224_025596.pdf"
@@ -54,334 +72,28 @@
     "Link": "https://www.dir.co.jp/report/research/economics/japan/20260218_025587.pdf"
   },
   {
-    "Source": "DIR",
-    "Date": "2026年02月17日",
-    "Name": "経済指標の要点（1/17～2/17発表統計）",
-    "Link": "https://www.dir.co.jp/report/research/economics/japan/20260217_025585.pdf"
-  },
-  {
-    "Source": "DIR",
-    "Date": "2026年02月17日",
-    "Name": "米国：「雇用抑制型の経済成長」は持続可能か",
-    "Link": "https://www.dir.co.jp/report/research/economics/usa/20260217_025584.pdf"
-  },
-  {
-    "Source": "DIR",
-    "Date": "2026年02月16日",
-    "Name": "2025年10-12月期GDP（1次速報）",
-    "Link": "https://www.dir.co.jp/report/research/economics/japan/20260216_025582.pdf"
+    "Source": "DLRI",
+    "Date": "2026.02.16",
+    "Name": "【1分解説】消費税の使い道とは？",
+    "Link": "https://www.dlri.co.jp/files/ld/575679.pdf"
   },
   {
     "Source": "DLRI",
     "Date": "2026.02.19",
-    "Name": "高市政権だけで説明できない円安・株高 韓国も株高・通貨安",
-    "Link": "https://www.dlri.co.jp/files/macro/580711.pdf"
+    "Name": "注目のキーワード『人材と人財』",
+    "Link": "https://www.dlri.co.jp/files/dlri/575812.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.02.17",
+    "Name": "国連社会開発世界サミットでBeyond GDPの議論が進展 ～ハイレベル専門家グループが中間報告を公表～",
+    "Link": "https://www.dlri.co.jp/files/ld/575758.pdf"
   },
   {
     "Source": "DLRI",
     "Date": "2026.02.16",
     "Name": "タイ･25年成長率は＋2.4％､26年もモメンタムの大幅改善は困難か ～10-12月は政策効果などで前期比年率＋7.84％と高成長も､先行きは反動や不透明要因が山積～",
     "Link": "https://www.dlri.co.jp/files/macro/575720.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.02.24",
-    "Name": "米連邦最高裁が相互関税に違憲判決､新興国はどうなる？ ～当面は追い風となり得るが､米国の｢脅し｣が通じにくくなるなか､日本としての立ち位置も重要に～",
-    "Link": "https://www.dlri.co.jp/files/macro/580799.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.02.12",
-    "Name": "米国 26年1月雇用統計は労働市場安定化の兆しを示す  ～雇用・平均時給の加速、失業率の低下、労働需要の強まりを確認～",
-    "Link": "https://www.dlri.co.jp/files/macro/575545.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.02.24",
-    "Name": "米国:民間部門は拡大ペース鈍化も底堅さを維持(2月PMI)   ～サービス業が37ヵ月連続、製造業は7ヵ月連続で50超を維持～",
-    "Link": "https://www.dlri.co.jp/files/macro/580808.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.02.18",
-    "Name": "日米合意に基づく対米投融資1号案件が公表  ～中間選挙に向け、トランプ大統領は成果をアピール～",
-    "Link": "https://www.dlri.co.jp/files/macro/580692.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.02.16",
-    "Name": "【1分解説】リバースモーゲージとは？",
-    "Link": "https://www.dlri.co.jp/files/ld/575712.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.02.05",
-    "Name": "「責任ある積極財政」に対する誤解 ～エクスパンショナリー（拡張的）ではなくプロアクティブ（先見的・戦略的）～",
-    "Link": "https://www.dlri.co.jp/files/macro/575370.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.02.19",
-    "Name": "インフレ圧力VS人口減少デフレ ～デフレはどう残存しているのか？～",
-    "Link": "https://www.dlri.co.jp/files/macro/580706.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.02.16",
-    "Name": "【1分解説】特別国会とは？",
-    "Link": "https://www.dlri.co.jp/files/ld/575670.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.02.16",
-    "Name": "【1分解説】介護福祉士国家試験のパート合格（合格パートの受験免除）とは？",
-    "Link": "https://www.dlri.co.jp/files/ld/575709.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.02.13",
-    "Name": "工作機械受注が教えてくれる日本株・世界経済（26年１月）",
-    "Link": "https://www.dlri.co.jp/files/macro/575602.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.02.06",
-    "Name": "上昇が続くエンゲル係数 ～食料品価格の上昇が押し上げ要因に～",
-    "Link": "https://www.dlri.co.jp/files/macro/575451.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.02.19",
-    "Name": "内外経済ウォッチ『欧州～グリーンランド問題で米欧の亀裂が拡大～』(2026年3月号)",
-    "Link": "https://www.dlri.co.jp/files/dlri/575797.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.02.16",
-    "Name": "【1分解説】米国の国家防衛戦略（NDS）とは？",
-    "Link": "https://www.dlri.co.jp/files/ld/575661.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.02.06",
-    "Name": "我が国のコーポレートガバナンス改革は効果があったのか? ～独立社外取締役「過半」選任とROEの関係の実証分析～",
-    "Link": "https://www.dlri.co.jp/files/ld/575399.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.02.09",
-    "Name": "総選挙後の市場（株・金利・ドル円）予想 ～カギを握るのは「責任ある」「成長に資する」財政運営～",
-    "Link": "https://www.dlri.co.jp/files/macro/575499.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.02.16",
-    "Name": "【1分解説】ベース・レジストリとは？",
-    "Link": "https://www.dlri.co.jp/files/ld/575676.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.02.12",
-    "Name": "ライフデザイン30年史(3) 経済的ゆとり感の変遷 ～女性を中心にみられる低下傾向とライフデザインの重要性～",
-    "Link": "https://www.dlri.co.jp/files/ld/575568.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.02.24",
-    "Name": "米国:政府機関閉鎖で減速も経済の基調は堅調 (25年10-12月期GDP1次推計と予測) ～26年は大規模減税を背景に成長再加速へ～",
-    "Link": "https://www.dlri.co.jp/files/macro/580802.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.02.16",
-    "Name": "2025～2027年度日本経済見通し（2026年2月）（2025年10-12月期GDP1次速報後改定）",
-    "Link": "https://www.dlri.co.jp/files/macro/575727.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.02.20",
-    "Name": "中東混乱時の金融市場の反応  ～原油価格動向を占ううえでは、生産設備への影響とホルムズ海峡の封鎖が焦点～",
-    "Link": "https://www.dlri.co.jp/files/macro/580761.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.02.16",
-    "Name": "米国　緩やかな低下傾向(26年1月CPI) 　 ～政府機関閉鎖による統計の歪みで、下振れは4月分まで継続～",
-    "Link": "https://www.dlri.co.jp/files/macro/575682.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.02.05",
-    "Name": "グリスロ・特定原付等が地域のお出かけを支える ～実用技術が支える地域の未来　その3（モビリティ）～",
-    "Link": "https://www.dlri.co.jp/files/ld/575379.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.02.16",
-    "Name": "【1分解説】障害年金とは？",
-    "Link": "https://www.dlri.co.jp/files/ld/575667.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.02.19",
-    "Name": "米国のモンロー主義回帰の「背景」 ～米国に近づく中国に対する脅威と拒絶～",
-    "Link": "https://www.dlri.co.jp/files/macro/580729.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.02.10",
-    "Name": "AI時代に求められるのは「ジョブ型」よりも「スキル型」雇用 ～ジョブ型雇用はAIの進化に適応できない？～",
-    "Link": "https://www.dlri.co.jp/files/ld/575519.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.02.09",
-    "Name": "実質賃金に下げ止まりの兆し (2025年12月毎月勤労統計)  ～物価鈍化を主因に、26年1月に実質賃金プラス転化の可能性が高い～",
-    "Link": "https://www.dlri.co.jp/files/macro/575487.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.02.19",
-    "Name": "米国 26年1月鉱工業生産は上振れ、製造業が牽引   ～広範な業種で生産拡大、基調はプラス圏へ～",
-    "Link": "https://www.dlri.co.jp/files/macro/580726.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.02.19",
-    "Name": "内外経済ウォッチ『アジア・新興国～インドと米国が急展開で通商合意、トランプ関税は18％に大幅低下へ～』(2026年3月号)",
-    "Link": "https://www.dlri.co.jp/files/dlri/575800.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.02.19",
-    "Name": "現役世代の収入と税・社会保険料負担はどれだけ増えたか ～2025年「家計調査」に基づく長期推移と最新動向～",
-    "Link": "https://www.dlri.co.jp/files/ld/580714.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.02.19",
-    "Name": "マーケット見通し『向こう１年間の市場見通し』(2026年3月号)",
-    "Link": "https://www.dlri.co.jp/files/dlri/575785.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.02.19",
-    "Name": "マイオピニオン～若手研究員の意見～『「介護の悩みが職場に相談されない」を考える』",
-    "Link": "https://www.dlri.co.jp/files/dlri/575809.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.02.19",
-    "Name": "内外経済ウォッチ『米国～トランプ政権の米国第一主義で米国は高成長へ～』(2026年3月号)",
-    "Link": "https://www.dlri.co.jp/files/dlri/575794.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.02.16",
-    "Name": "【1分解説】労働生産性とは？",
-    "Link": "https://www.dlri.co.jp/files/ld/575649.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.02.20",
-    "Name": "対米投融資1号案件による日本への影響 ～日本製品の採用率に依存するが、輸出を最大5,000億円程度押上げ～",
-    "Link": "https://www.dlri.co.jp/files/macro/580780.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.02.16",
-    "Name": "2025年10-12月期GDP（1次速報値） ～牽引役不在で低成長にとどまる。１-３月期は物価鈍化で持ち直しを予想～",
-    "Link": "https://www.dlri.co.jp/files/macro/575693.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.02.19",
-    "Name": "米国のモンロー主義回帰の「狙い」 ～西半球の資源で米国の脱中国は達成可能だが、その価値の共有が必要～",
-    "Link": "https://www.dlri.co.jp/files/macro/580741.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.02.19",
-    "Name": "内外経済ウォッチ『日本～2026年マーケット展望～』(2026年3月号)",
-    "Link": "https://www.dlri.co.jp/files/dlri/575791.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.02.05",
-    "Name": "AIは誰の仕事を奪うのか ～ソフトウェア/フィジカルAI普及による日本の職種別需給ギャップの将来推計～",
-    "Link": "https://www.dlri.co.jp/files/ld/575343.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.02.18",
-    "Name": "米国：雇用なき成長の背景 ～労働生産性の上昇or GDPの過大評価？～",
-    "Link": "https://www.dlri.co.jp/files/macro/580675.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.02.24",
-    "Name": "ありそうでない４月の利上げ 株安で高市政権との関係を壊したくない",
-    "Link": "https://www.dlri.co.jp/files/macro/580787.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.02.16",
-    "Name": "【1分解説】GXリーグとは？",
-    "Link": "https://www.dlri.co.jp/files/ld/575658.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.02.19",
-    "Name": "Well-being LDの視点『企業は「オヤカク世代」にどう向き合うか』",
-    "Link": "https://www.dlri.co.jp/files/dlri/575803.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.02.16",
-    "Name": "【1分解説】電子渡航認証（JESTA）とは？",
-    "Link": "https://www.dlri.co.jp/files/ld/575655.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.02.05",
-    "Name": "企業景況観からみる株価",
-    "Link": "https://www.dlri.co.jp/files/macro/575346.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.02.19",
-    "Name": "時事雑感(2026年3月号)",
-    "Link": "https://www.dlri.co.jp/files/dlri/575815.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.02.17",
-    "Name": "ロシアの戦時経済は丸４年､中銀に一層｢圧力｣が掛かる様相 ～インフレ鈍化に変化の兆しも追加利下げに言及､米印合意もあらたなリスク要因となる可能性～",
-    "Link": "https://www.dlri.co.jp/files/macro/575751.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.02.06",
-    "Name": "国家ファンドの運用益で減税を賄えるか？ ～技術問題と規律問題～",
-    "Link": "https://www.dlri.co.jp/files/macro/575454.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.02.09",
-    "Name": "2025年10-12月期GDP予測(最終版) ～前期比年率＋1.2％と２四半期ぶりのプラス成長を予想～",
-    "Link": "https://www.dlri.co.jp/files/macro/575492.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.02.17",
-    "Name": "ソフトウェア投資とアンソロピック・ショック  ～日本の潜在成長率への影響～",
-    "Link": "https://www.dlri.co.jp/files/macro/575734.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.02.09",
-    "Name": "米国出張報告（2026年2月）  ～雇用なき成長の謎/割れるウォーシュ氏への見方/中間選挙の行方～",
-    "Link": "https://www.dlri.co.jp/files/macro/575503.pdf"
   },
   {
     "Source": "DLRI",
@@ -392,26 +104,86 @@
   {
     "Source": "DLRI",
     "Date": "2026.02.19",
-    "Name": "インドネシア中銀はルピア安に直面も､追加利下げを諦めていない ～中銀は景気下支えを重視する姿勢を崩さず､市場が納得できる｢ストーリー｣を提示できるか～",
-    "Link": "https://www.dlri.co.jp/files/macro/580754.pdf"
+    "Name": "高市政権だけで説明できない円安・株高 韓国も株高・通貨安",
+    "Link": "https://www.dlri.co.jp/files/macro/580711.pdf"
   },
   {
     "Source": "DLRI",
-    "Date": "2026.02.12",
-    "Name": "2026年・春闘賃上げ率の見通し（改定版） ～5.45％と、ほぼ前年並みの高い賃上げが実現する可能性が高い～",
-    "Link": "https://www.dlri.co.jp/files/macro/575588.pdf"
+    "Date": "2026.02.24",
+    "Name": "最高裁がトランプ関税に違憲判決 ～還付の行方は不透明～",
+    "Link": "https://www.dlri.co.jp/files/macro/580795.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.02.10",
+    "Name": "インフレで株価も膨らむ（拡大版）",
+    "Link": "https://www.dlri.co.jp/files/macro/575508.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.02.06",
+    "Name": "世代間賃金格差は残っている ～初任給引き上げでも氷河期世代は待遇改善せず～",
+    "Link": "https://www.dlri.co.jp/files/macro/575457.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.02.06",
+    "Name": "上昇が続くエンゲル係数 ～食料品価格の上昇が押し上げ要因に～",
+    "Link": "https://www.dlri.co.jp/files/macro/575451.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.02.25",
+    "Name": "エンゲル係数上昇の要因分解 ～食料品の相対価格上昇による係数押上を消費性向の上昇が抑制～",
+    "Link": "https://www.dlri.co.jp/files/macro/580831.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.02.05",
+    "Name": "グリスロ・特定原付等が地域のお出かけを支える ～実用技術が支える地域の未来　その3（モビリティ）～",
+    "Link": "https://www.dlri.co.jp/files/ld/575379.pdf"
   },
   {
     "Source": "DLRI",
     "Date": "2026.02.16",
-    "Name": "【1分解説】消費税の使い道とは？",
-    "Link": "https://www.dlri.co.jp/files/ld/575679.pdf"
+    "Name": "【1分解説】GXリーグとは？",
+    "Link": "https://www.dlri.co.jp/files/ld/575658.pdf"
   },
   {
     "Source": "DLRI",
     "Date": "2026.02.24",
     "Name": "ヘルスケア分野の非侵襲型デバイス活用 〜「ウェアラブル」から「ウェアレス」へ移行するセンシング技術〜",
     "Link": "https://www.dlri.co.jp/files/ld/580772.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.02.16",
+    "Name": "米国　緩やかな低下傾向(26年1月CPI) 　 ～政府機関閉鎖による統計の歪みで、下振れは4月分まで継続～",
+    "Link": "https://www.dlri.co.jp/files/macro/575682.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.02.16",
+    "Name": "【1分解説】時間外労働の割増率とは？",
+    "Link": "https://www.dlri.co.jp/files/ld/575685.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.02.16",
+    "Name": "【1分解説】ドンロー主義とは？",
+    "Link": "https://www.dlri.co.jp/files/ld/575673.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.02.06",
+    "Name": "国家ファンドの運用益で減税を賄えるか？ ～技術問題と規律問題～",
+    "Link": "https://www.dlri.co.jp/files/macro/575454.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.02.19",
+    "Name": "時事雑感(2026年3月号)",
+    "Link": "https://www.dlri.co.jp/files/dlri/575815.pdf"
   },
   {
     "Source": "DLRI",
@@ -422,116 +194,14 @@
   {
     "Source": "DLRI",
     "Date": "2026.02.12",
-    "Name": "米国　12月小売売上高は前月の反動で鈍化 　 　～小売の拡大基調は緩やかにペースダウン～",
-    "Link": "https://www.dlri.co.jp/files/macro/575581.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.02.18",
-    "Name": "世界経済見通し（日米欧亜・2026年2月）",
-    "Link": "https://www.dlri.co.jp/files/macro/580653.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.02.19",
-    "Name": "DXの視点『AI時代、知的労働の主戦場は「現場」に移る』",
-    "Link": "https://www.dlri.co.jp/files/dlri/575806.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.02.16",
-    "Name": "【1分解説】時間外労働の割増率とは？",
-    "Link": "https://www.dlri.co.jp/files/ld/575685.pdf"
+    "Name": "見た目より弱くとも堅調な米雇用統計",
+    "Link": "https://www.dlri.co.jp/files/macro/575548.pdf"
   },
   {
     "Source": "DLRI",
     "Date": "2026.02.13",
     "Name": "「こども誰でも通園制度」とは？課題と展望（2） ～制度の基盤となる保育士にとっての意義と課題は何か～",
     "Link": "https://www.dlri.co.jp/files/ld/575637.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.02.16",
-    "Name": "【1分解説】クリティカルミネラルとは？",
-    "Link": "https://www.dlri.co.jp/files/ld/575652.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.02.24",
-    "Name": "最高裁がトランプ関税に違憲判決 ～還付の行方は不透明～",
-    "Link": "https://www.dlri.co.jp/files/macro/580795.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.02.20",
-    "Name": "堅調な動きをみせる豪ドル相場の背景とは ～RBAのタカ派傾斜､労働市場の堅調さ確認､ハト派に傾くRBNZとの違いも影響している～",
-    "Link": "https://www.dlri.co.jp/files/macro/580769.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.02.16",
-    "Name": "【1分解説】アンガーマネジメントとは？",
-    "Link": "https://www.dlri.co.jp/files/ld/575646.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.02.12",
-    "Name": "見た目より弱くとも堅調な米雇用統計",
-    "Link": "https://www.dlri.co.jp/files/macro/575548.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.02.19",
-    "Name": "イベントカレンダー『各国の主要政治・経済イベント予定』(2026年3月号)",
-    "Link": "https://www.dlri.co.jp/files/dlri/575788.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.02.05",
-    "Name": "米国 26年は良好なスタート(1月ISM非製造業景気指数)   ～活発な事業活動が景気を牽引する一方、労働市場には停滞感～",
-    "Link": "https://www.dlri.co.jp/files/macro/575373.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.02.19",
-    "Name": "注目のキーワード『人材と人財』",
-    "Link": "https://www.dlri.co.jp/files/dlri/575812.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.02.19",
-    "Name": "時評『AIエージェントが変える企業の仕事』",
-    "Link": "https://www.dlri.co.jp/files/dlri/575779.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.02.05",
-    "Name": "インポスター症候群がキャリア形成を阻む ～なぜ成果を出しても自信が持てないのか～",
-    "Link": "https://www.dlri.co.jp/files/ld/575386.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.02.16",
-    "Name": "【1分解説】為替介入とは？",
-    "Link": "https://www.dlri.co.jp/files/ld/575664.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.02.17",
-    "Name": "国連社会開発世界サミットでBeyond GDPの議論が進展 ～ハイレベル専門家グループが中間報告を公表～",
-    "Link": "https://www.dlri.co.jp/files/ld/575758.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.02.10",
-    "Name": "インフレで株価も膨らむ（拡大版）",
-    "Link": "https://www.dlri.co.jp/files/macro/575508.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.02.09",
-    "Name": "減税競争に距離を置くなら金利・為替は安定化",
-    "Link": "https://www.dlri.co.jp/files/macro/575475.pdf"
   },
   {
     "Source": "DLRI",
@@ -542,8 +212,386 @@
   {
     "Source": "DLRI",
     "Date": "2026.02.18",
-    "Name": "ニュージーランド中銀は当面緩和維持､市場予想より｢ハト派｣の模様 ～2026年内の利上げ織り込みは行き過ぎか､当面のNZドル相場は上値の重い展開が見込まれる～",
-    "Link": "https://www.dlri.co.jp/files/macro/580664.pdf"
+    "Name": "米国：雇用なき成長の背景 ～労働生産性の上昇or GDPの過大評価？～",
+    "Link": "https://www.dlri.co.jp/files/macro/580675.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.02.16",
+    "Name": "2025年10-12月期GDP（1次速報値） ～牽引役不在で低成長にとどまる。１-３月期は物価鈍化で持ち直しを予想～",
+    "Link": "https://www.dlri.co.jp/files/macro/575693.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.02.06",
+    "Name": "メキシコ中銀は13会合ぶりの利下げ局面休止､一進一退が続くか ～インフレの目標回帰時期は2027年半ばに後ズレ､ペソ相場は外部環境に左右される展開が続く～",
+    "Link": "https://www.dlri.co.jp/files/macro/575415.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.02.24",
+    "Name": "ありそうでない４月の利上げ 株安で高市政権との関係を壊したくない",
+    "Link": "https://www.dlri.co.jp/files/macro/580787.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.02.25",
+    "Name": "オーストラリアは１月もインフレ確認､RBAはタカ派傾斜を強めるか ～豪ドル高･NZドル安が続くなか､RBAのタカ派傾斜は豪ドル相場を支える展開も～",
+    "Link": "https://www.dlri.co.jp/files/macro/580842.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.02.13",
+    "Name": "工作機械受注が教えてくれる日本株・世界経済（26年１月）",
+    "Link": "https://www.dlri.co.jp/files/macro/575602.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.02.19",
+    "Name": "内外経済ウォッチ『アジア・新興国～インドと米国が急展開で通商合意、トランプ関税は18％に大幅低下へ～』(2026年3月号)",
+    "Link": "https://www.dlri.co.jp/files/dlri/575800.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.02.09",
+    "Name": "総選挙後の市場（株・金利・ドル円）予想 ～カギを握るのは「責任ある」「成長に資する」財政運営～",
+    "Link": "https://www.dlri.co.jp/files/macro/575499.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.02.17",
+    "Name": "ロシアの戦時経済は丸４年､中銀に一層｢圧力｣が掛かる様相 ～インフレ鈍化に変化の兆しも追加利下げに言及､米印合意もあらたなリスク要因となる可能性～",
+    "Link": "https://www.dlri.co.jp/files/macro/575751.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.02.17",
+    "Name": "ソフトウェア投資とアンソロピック・ショック  ～日本の潜在成長率への影響～",
+    "Link": "https://www.dlri.co.jp/files/macro/575734.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.02.25",
+    "Name": "米国:消費者信頼感は上昇も低い水準(26年2月CB指数)   ～労働市場に安定化の兆し～",
+    "Link": "https://www.dlri.co.jp/files/macro/580817.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.02.13",
+    "Name": "マーケット視点で高市大勝をどう読むか？ ～投資家から何を望まれているのか～",
+    "Link": "https://www.dlri.co.jp/files/macro/575634.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.02.19",
+    "Name": "内外経済ウォッチ『欧州～グリーンランド問題で米欧の亀裂が拡大～』(2026年3月号)",
+    "Link": "https://www.dlri.co.jp/files/dlri/575797.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.02.12",
+    "Name": "米国　12月小売売上高は前月の反動で鈍化 　 　～小売の拡大基調は緩やかにペースダウン～",
+    "Link": "https://www.dlri.co.jp/files/macro/575581.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.02.16",
+    "Name": "【1分解説】米国の国家防衛戦略（NDS）とは？",
+    "Link": "https://www.dlri.co.jp/files/ld/575661.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.02.05",
+    "Name": "インポスター症候群がキャリア形成を阻む ～なぜ成果を出しても自信が持てないのか～",
+    "Link": "https://www.dlri.co.jp/files/ld/575386.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.02.19",
+    "Name": "内外経済ウォッチ『日本～2026年マーケット展望～』(2026年3月号)",
+    "Link": "https://www.dlri.co.jp/files/dlri/575791.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.02.13",
+    "Name": "インド･１月物価は前年比＋2.75％と再び目標域に（Asia Weekly(2/9～2/13)） ～基準改定の影響を考慮する必要はあるが､生活必需品以外で物価上昇圧力が強まる動き～",
+    "Link": "https://www.dlri.co.jp/files/macro/575628.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.02.19",
+    "Name": "現役世代の収入と税・社会保険料負担はどれだけ増えたか ～2025年「家計調査」に基づく長期推移と最新動向～",
+    "Link": "https://www.dlri.co.jp/files/ld/580714.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.02.16",
+    "Name": "【1分解説】ベース・レジストリとは？",
+    "Link": "https://www.dlri.co.jp/files/ld/575676.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.02.20",
+    "Name": "対米投融資1号案件による日本への影響 ～日本製品の採用率に依存するが、輸出を最大5,000億円程度押上げ～",
+    "Link": "https://www.dlri.co.jp/files/macro/580780.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.02.09",
+    "Name": "減税競争に距離を置くなら金利・為替は安定化",
+    "Link": "https://www.dlri.co.jp/files/macro/575475.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.02.24",
+    "Name": "中国商務部､日本の20企業･団体への軍民両用品の輸出禁止 ～中国は経済的威圧を着実に強化､日本として中国リスクの低減に向けた取り組みは不可避～",
+    "Link": "https://www.dlri.co.jp/files/macro/580811.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.02.16",
+    "Name": "【1分解説】介護福祉士国家試験のパート合格（合格パートの受験免除）とは？",
+    "Link": "https://www.dlri.co.jp/files/ld/575709.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.02.16",
+    "Name": "2025～2027年度日本経済見通し（2026年2月）（2025年10-12月期GDP1次速報後改定）",
+    "Link": "https://www.dlri.co.jp/files/macro/575727.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.02.19",
+    "Name": "マイオピニオン～若手研究員の意見～『「介護の悩みが職場に相談されない」を考える』",
+    "Link": "https://www.dlri.co.jp/files/dlri/575809.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.02.12",
+    "Name": "米国 26年1月雇用統計は労働市場安定化の兆しを示す  ～雇用・平均時給の加速、失業率の低下、労働需要の強まりを確認～",
+    "Link": "https://www.dlri.co.jp/files/macro/575545.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.02.20",
+    "Name": "中東混乱時の金融市場の反応  ～原油価格動向を占ううえでは、生産設備への影響とホルムズ海峡の封鎖が焦点～",
+    "Link": "https://www.dlri.co.jp/files/macro/580761.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.02.09",
+    "Name": "衆院選は高市自民の歴史的大勝 ～大きく変貌するパワーバランス～",
+    "Link": "https://www.dlri.co.jp/files/macro/575472.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.02.24",
+    "Name": "米連邦最高裁が相互関税に違憲判決､新興国はどうなる？ ～当面は追い風となり得るが､米国の｢脅し｣が通じにくくなるなか､日本としての立ち位置も重要に～",
+    "Link": "https://www.dlri.co.jp/files/macro/580799.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.02.19",
+    "Name": "Well-being LDの視点『企業は「オヤカク世代」にどう向き合うか』",
+    "Link": "https://www.dlri.co.jp/files/dlri/575803.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.02.09",
+    "Name": "2025年10-12月期GDP予測(最終版) ～前期比年率＋1.2％と２四半期ぶりのプラス成長を予想～",
+    "Link": "https://www.dlri.co.jp/files/macro/575492.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.02.19",
+    "Name": "内外経済ウォッチ『米国～トランプ政権の米国第一主義で米国は高成長へ～』(2026年3月号)",
+    "Link": "https://www.dlri.co.jp/files/dlri/575794.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.02.06",
+    "Name": "我が国のコーポレートガバナンス改革は効果があったのか? ～独立社外取締役「過半」選任とROEの関係の実証分析～",
+    "Link": "https://www.dlri.co.jp/files/ld/575399.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.02.18",
+    "Name": "日米合意に基づく対米投融資1号案件が公表  ～中間選挙に向け、トランプ大統領は成果をアピール～",
+    "Link": "https://www.dlri.co.jp/files/macro/580692.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.02.16",
+    "Name": "【1分解説】労働生産性とは？",
+    "Link": "https://www.dlri.co.jp/files/ld/575649.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.02.09",
+    "Name": "タイ総選挙､ナショナリズムを追い風に与党･誇り党が大勝 ～誇り党を中心とする連立協議で政局安定に期待も､国民党の後退で漸進姿勢が続くと見込まれる～",
+    "Link": "https://www.dlri.co.jp/files/macro/575496.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.02.19",
+    "Name": "米国のモンロー主義回帰の「背景」 ～米国に近づく中国に対する脅威と拒絶～",
+    "Link": "https://www.dlri.co.jp/files/macro/580729.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.02.24",
+    "Name": "米国:政府機関閉鎖で減速も経済の基調は堅調 (25年10-12月期GDP1次推計と予測) ～26年は大規模減税を背景に成長再加速へ～",
+    "Link": "https://www.dlri.co.jp/files/macro/580802.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.02.16",
+    "Name": "【1分解説】クリティカルミネラルとは？",
+    "Link": "https://www.dlri.co.jp/files/ld/575652.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.02.19",
+    "Name": "米国のモンロー主義回帰の「狙い」 ～西半球の資源で米国の脱中国は達成可能だが、その価値の共有が必要～",
+    "Link": "https://www.dlri.co.jp/files/macro/580741.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.02.18",
+    "Name": "ペルー大統領３代連続で罷免､米中対立の新たな舞台の行方は ～大統領選へ政治混乱の深刻化に懸念も､選挙結果は米中双方の動向､重要鉱物の供給にも影響か～",
+    "Link": "https://www.dlri.co.jp/files/macro/580671.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.02.16",
+    "Name": "【1分解説】特別国会とは？",
+    "Link": "https://www.dlri.co.jp/files/ld/575670.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.02.05",
+    "Name": "インドネシア25年成長率は＋5.11％､堅調さ確認も課題は多い ～金融市場の動揺､財政余地の乏しさ､中国との競争激化懸念､外需環境の悪化など懸念は山積～",
+    "Link": "https://www.dlri.co.jp/files/macro/575392.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.02.12",
+    "Name": "2026年・春闘賃上げ率の見通し（改定版） ～5.45％と、ほぼ前年並みの高い賃上げが実現する可能性が高い～",
+    "Link": "https://www.dlri.co.jp/files/macro/575588.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.02.16",
+    "Name": "【1分解説】為替介入とは？",
+    "Link": "https://www.dlri.co.jp/files/ld/575664.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.02.19",
+    "Name": "米国 26年1月鉱工業生産は上振れ、製造業が牽引   ～広範な業種で生産拡大、基調はプラス圏へ～",
+    "Link": "https://www.dlri.co.jp/files/macro/580726.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.02.18",
+    "Name": "世界経済見通し（日米欧亜・2026年2月）",
+    "Link": "https://www.dlri.co.jp/files/macro/580653.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.02.09",
+    "Name": "米国出張報告（2026年2月）  ～雇用なき成長の謎/割れるウォーシュ氏への見方/中間選挙の行方～",
+    "Link": "https://www.dlri.co.jp/files/macro/575503.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.02.12",
+    "Name": "ライフデザイン30年史(3) 経済的ゆとり感の変遷 ～女性を中心にみられる低下傾向とライフデザインの重要性～",
+    "Link": "https://www.dlri.co.jp/files/ld/575568.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.02.16",
+    "Name": "【1分解説】障害年金とは？",
+    "Link": "https://www.dlri.co.jp/files/ld/575667.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.02.16",
+    "Name": "【1分解説】アンガーマネジメントとは？",
+    "Link": "https://www.dlri.co.jp/files/ld/575646.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.02.12",
+    "Name": "中国･１月物価は春節要因で鈍化も､｢K字型｣景気を反映している ～反内巻の効果は着実に現れるも内需は｢K字型｣の様相､人民元相場の動きに引き続き要注意～",
+    "Link": "https://www.dlri.co.jp/files/macro/575578.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.02.19",
+    "Name": "イベントカレンダー『各国の主要政治・経済イベント予定』(2026年3月号)",
+    "Link": "https://www.dlri.co.jp/files/dlri/575788.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.02.25",
+    "Name": "タイ中銀が｢背水の陣｣で予想外の利下げ､構造問題に対応できるか ～バーツ高に加え､構造問題への対応で財政政策と協調も､余地が限られるなかで困難さが増すか～",
+    "Link": "https://www.dlri.co.jp/files/macro/580848.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.02.25",
+    "Name": "米国経済マンスリー：2026年2月 ～政府閉鎖で成長率が一時的に減速～",
+    "Link": "https://www.dlri.co.jp/files/macro/580822.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.02.06",
+    "Name": "インド準備銀､米印合意による金融市場の安定を受けて様子見維持 ～当面は様子見が続くと見込まれるが､市場環境が金融政策を左右する可能性に要注意～",
+    "Link": "https://www.dlri.co.jp/files/macro/575444.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.02.06",
+    "Name": "ゆっくりと上がりそうな米失業率",
+    "Link": "https://www.dlri.co.jp/files/macro/575412.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.02.16",
+    "Name": "【1分解説】電子渡航認証（JESTA）とは？",
+    "Link": "https://www.dlri.co.jp/files/ld/575655.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.02.10",
+    "Name": "AI時代に求められるのは「ジョブ型」よりも「スキル型」雇用 ～ジョブ型雇用はAIの進化に適応できない？～",
+    "Link": "https://www.dlri.co.jp/files/ld/575519.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.02.19",
+    "Name": "インフレ圧力VS人口減少デフレ ～デフレはどう残存しているのか？～",
+    "Link": "https://www.dlri.co.jp/files/macro/580706.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.02.16",
+    "Name": "【1分解説】リバースモーゲージとは？",
+    "Link": "https://www.dlri.co.jp/files/ld/575712.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.02.24",
+    "Name": "米国:民間部門は拡大ペース鈍化も底堅さを維持(2月PMI)   ～サービス業が37ヵ月連続、製造業は7ヵ月連続で50超を維持～",
+    "Link": "https://www.dlri.co.jp/files/macro/580808.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.02.19",
+    "Name": "時評『AIエージェントが変える企業の仕事』",
+    "Link": "https://www.dlri.co.jp/files/dlri/575779.pdf"
   },
   {
     "Source": "JRI",
@@ -592,6 +640,12 @@
     "Date": "2026年01月28日",
     "Name": "アジア・マンスリー2026年2月号 （PDF：1527KB）",
     "Link": "https://www.jri.co.jp/file/report/asia/pdf/16434.pdf"
+  },
+  {
+    "Source": "Mizuho",
+    "Date": "2026年2月25日",
+    "Name": "［門間一夫の経済深読み］失われた「20年」「30年」「40年」～深まるＫ字型への懸念～ (PDF/931KB)",
+    "Link": "https://www.mizuho-rt.co.jp/business/research/executive/pdf/km_c260225.pdf"
   },
   {
     "Source": "Mizuho",
@@ -664,12 +718,6 @@
     "Date": "2026年1月28日",
     "Name": "［門間一夫の経済深読み］「働き方」を巡る議論が忘れてはならない視点 (PDF/427KB)",
     "Link": "https://www.mizuho-rt.co.jp/business/research/executive/pdf/km_c260128.pdf"
-  },
-  {
-    "Source": "Mizuho",
-    "Date": "2026年1月27日",
-    "Name": "［MHRT Global Watch］2026年1月27日号",
-    "Link": "https://www.mizuho-rt.co.jp/business/research/report/pdf/global-watch260127.pdf"
   },
   {
     "Source": "MURC",
@@ -763,6 +811,24 @@
   },
   {
     "Source": "NLI",
+    "Date": "2026年02月25日",
+    "Name": "Japan’s Economic Outlook for Fiscal Years 2025–2027 (February 2026)",
+    "Link": "https://www.nli-research.co.jp/files/topics/84771_ext_18_0.pdf?site=nli"
+  },
+  {
+    "Source": "NLI",
+    "Date": "2026年02月25日",
+    "Name": "中国経済：2026～27年の見通し－内需を中心に減速する見込み。3月の全人代で発表の経済政策に注目",
+    "Link": "https://www.nli-research.co.jp/files/topics/84768_ext_18_0.pdf?site=nli"
+  },
+  {
+    "Source": "NLI",
+    "Date": "2026年02月25日",
+    "Name": "スターを待つか、スターを育てるか－箱根駅伝から考える日韓マラソン格差",
+    "Link": "https://www.nli-research.co.jp/files/topics/84770_ext_18_0.pdf?site=nli"
+  },
+  {
+    "Source": "NLI",
     "Date": "2026年02月24日",
     "Name": "転換期を迎える米金融政策－見通しが割れる中で高まる政策不確実性",
     "Link": "https://www.nli-research.co.jp/files/topics/84763_ext_18_0.pdf?site=nli"
@@ -805,24 +871,6 @@
   },
   {
     "Source": "NLI",
-    "Date": "2026年02月18日",
-    "Name": "貿易統計26年1月－中国向けを中心に輸出の伸びが加速したが、春節の影響を割り引く必要あり",
-    "Link": "https://www.nli-research.co.jp/files/topics/84723_ext_18_0.pdf?site=nli"
-  },
-  {
-    "Source": "NLI",
-    "Date": "2026年02月18日",
-    "Name": "食料品の消費税率ゼロを巡る論点整理",
-    "Link": "https://www.nli-research.co.jp/files/topics/84722_ext_18_0.pdf?site=nli"
-  },
-  {
-    "Source": "NLI",
-    "Date": "2026年02月18日",
-    "Name": "英国雇用関連統計（26年1月）－週平均賃金は前年比4％台前半まで鈍化",
-    "Link": "https://www.nli-research.co.jp/files/topics/84721_ext_18_0.pdf?site=nli"
-  },
-  {
-    "Source": "NLI",
     "Date": "2026年02月17日",
     "Name": "2025～2027年度経済見通し（26年2月）",
     "Link": "https://www.nli-research.co.jp/files/topics/84716_ext_18_0.pdf?site=nli"
@@ -841,15 +889,15 @@
   },
   {
     "Source": "NLI",
-    "Date": "2026年01月30日",
-    "Name": "2025年10-12月期の実質GDP～前期比0.4％（年率1.7％）を予測～",
-    "Link": "https://www.nli-research.co.jp/files/topics/84521_ext_18_0.pdf?site=nli"
+    "Date": "2026年02月18日",
+    "Name": "貿易統計26年1月－中国向けを中心に輸出の伸びが加速したが、春節の影響を割り引く必要あり",
+    "Link": "https://www.nli-research.co.jp/files/topics/84723_ext_18_0.pdf?site=nli"
   },
   {
     "Source": "NLI",
-    "Date": "2025年12月19日",
-    "Name": "東南アジア経済の見通し～外需調整下、内需と政策対応が成長を分ける",
-    "Link": "https://www.nli-research.co.jp/files/topics/84097_ext_18_0.pdf?site=nli"
+    "Date": "2026年02月18日",
+    "Name": "食料品の消費税率ゼロを巡る論点整理",
+    "Link": "https://www.nli-research.co.jp/files/topics/84722_ext_18_0.pdf?site=nli"
   },
   {
     "Source": "Sony FG",
