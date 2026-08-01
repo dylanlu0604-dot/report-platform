@@ -1,6 +1,42 @@
 [
   {
     "Source": "DIR",
+    "Date": "2026年07月31日",
+    "Name": "中国:政治の季節と景気テコ入れ策の示唆",
+    "Link": "https://www.dir.co.jp/report/research/economics/china/20260731_025955.pdf"
+  },
+  {
+    "Source": "DIR",
+    "Date": "2026年07月31日",
+    "Name": "2026年4-6月期GDP（1次速報）予測～前期比年率＋2.9％を予想～",
+    "Link": "https://www.dir.co.jp/report/research/economics/japan/20260731_025957.pdf"
+  },
+  {
+    "Source": "DIR",
+    "Date": "2026年07月31日",
+    "Name": "2026年6月雇用統計",
+    "Link": "https://www.dir.co.jp/report/research/economics/japan/20260731_025956.pdf"
+  },
+  {
+    "Source": "DIR",
+    "Date": "2026年07月31日",
+    "Name": "2026年6月鉱工業生産",
+    "Link": "https://www.dir.co.jp/report/research/economics/japan/20260731_025954.pdf"
+  },
+  {
+    "Source": "DIR",
+    "Date": "2026年07月31日",
+    "Name": "米GDP　前期比年率＋1.5％と減速",
+    "Link": "https://www.dir.co.jp/report/research/economics/usa/20260731_025953.pdf"
+  },
+  {
+    "Source": "DIR",
+    "Date": "2026年07月31日",
+    "Name": "4-6月期ユーロ圏GDP　原油高でも底堅く成長",
+    "Link": "https://www.dir.co.jp/report/research/economics/europe/20260731_025952.pdf"
+  },
+  {
+    "Source": "DIR",
     "Date": "2026年07月30日",
     "Name": "FOMC 5会合連続で金利据え置き",
     "Link": "https://www.dir.co.jp/report/research/economics/usa/20260730_025951.pdf"
@@ -36,60 +72,6 @@
     "Link": "https://www.dir.co.jp/report/research/economics/china/20260728_025938.pdf"
   },
   {
-    "Source": "DIR",
-    "Date": "2026年07月27日",
-    "Name": "欧州における防衛費増加の進捗と展望",
-    "Link": "https://www.dir.co.jp/report/research/economics/europe/20260727_030183.pdf"
-  },
-  {
-    "Source": "DIR",
-    "Date": "2026年07月27日",
-    "Name": "先進国の産業政策の新潮流",
-    "Link": "https://www.dir.co.jp/report/research/economics/japan/20260727_030182.pdf"
-  },
-  {
-    "Source": "DIR",
-    "Date": "2026年07月24日",
-    "Name": "日本経済見通し：2026年7月",
-    "Link": "https://www.dir.co.jp/report/research/economics/outlook/20260724_025935.pdf"
-  },
-  {
-    "Source": "DIR",
-    "Date": "2026年07月24日",
-    "Name": "2026年6月全国消費者物価",
-    "Link": "https://www.dir.co.jp/report/research/economics/japan/20260724_025934.pdf"
-  },
-  {
-    "Source": "DIR",
-    "Date": "2026年07月23日",
-    "Name": "最高路線価に読む立地の収益力",
-    "Link": "https://www.dir.co.jp/report/research/policy-analysis/regionalecnmy/20260723_025930.pdf"
-  },
-  {
-    "Source": "DIR",
-    "Date": "2026年07月22日",
-    "Name": "2026年6月貿易統計",
-    "Link": "https://www.dir.co.jp/report/research/economics/japan/20260722_025927.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.07.21",
-    "Name": "米国が対カナダ関税50%を発表 ～関税対象はカナダからの輸入の約５％～",
-    "Link": "https://www.dlri.co.jp/files/macro/634501.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.07.14",
-    "Name": "FRBがタスクフォースの責任者を発表 ～ルールから裁量、サイエンスからアート～",
-    "Link": "https://www.dlri.co.jp/files/macro/634282.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.07.23",
-    "Name": "６月でナフサの価格転嫁はどこまで進んだのか ～コストの波及シミュレーションと６月企業物価指数によるアップデート～",
-    "Link": "https://www.dlri.co.jp/files/macro/634604.pdf"
-  },
-  {
     "Source": "DLRI",
     "Date": "2026.07.17",
     "Name": "半導体株の調整はいつまで続くのか ～ファンダメンタルズ変化による利益確定主導であれば自律反発も～",
@@ -97,243 +79,9 @@
   },
   {
     "Source": "DLRI",
-    "Date": "2026.07.24",
-    "Name": "期限切れの健康保険証、2026年8月からは使えない ～受診前に確認したい「マイナ保険証」「資格確認書」「電子証明書」～",
-    "Link": "https://www.dlri.co.jp/files/asset/634660.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.07.09",
-    "Name": "ＦＲＢの次の一手はインフレ次第、高止まりなら利上げへ  ～「語らない」ウォーシュ新議長の誕生で、議事録の重要性が急上昇～",
-    "Link": "https://www.dlri.co.jp/files/macro/629173.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.07.21",
-    "Name": "注目のキーワード『夏枯れ相場』",
-    "Link": "https://www.dlri.co.jp/files/dlri/634385.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.07.10",
-    "Name": "原油需給の現状整理 ～控える構造的な供給過剰と地政学リスクの再燃～",
-    "Link": "https://www.dlri.co.jp/files/macro/629228.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.07.23",
-    "Name": "賃上げ率が高まると170 円まで円安が進む？",
-    "Link": "https://www.dlri.co.jp/files/macro/634581.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.07.22",
-    "Name": "進む代替調達、膨らむ輸入コスト（2026年6月貿易統計） ～供給面での下振れリスクは大きく低下も、価格面の負担は残る～",
-    "Link": "https://www.dlri.co.jp/files/macro/634553.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.07.09",
-    "Name": "米国の原油輸出動向（26年5月時点） ～対日輸出が急増～",
-    "Link": "https://www.dlri.co.jp/files/macro/629186.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.07.31",
-    "Name": "都区部版・消費者物価のコア指標（2026/07） ～すべての指標がジワリと上昇率拡大～",
-    "Link": "https://www.dlri.co.jp/files/macro/638207.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.07.27",
-    "Name": "米国：地政学リスクのなかサービス業主導で7月PMIが加速   ～大型イベントによる需要拡大の一方、コスト転嫁と根強いインフレ圧力は継続～",
-    "Link": "https://www.dlri.co.jp/files/macro/634684.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.07.24",
-    "Name": "南鳥島レアアース試掘結果公表 ～中重希土類を豊富に含み、中国依存からの脱却に光明～",
-    "Link": "https://www.dlri.co.jp/files/macro/634646.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.07.23",
-    "Name": "オセアニア通貨の｢豪ドル優位｣は復活するか？ ～RBAの追加利上げ観測の再浮上により、豪ドル相場に見直しの可能性～",
-    "Link": "https://www.dlri.co.jp/files/macro/634601.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.07.21",
-    "Name": "内外経済ウォッチ『米国～FRBのフォワードガイダンス排除による不確実性の高まり～』(2026年8月号)",
-    "Link": "https://www.dlri.co.jp/files/dlri/634370.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.07.16",
-    "Name": "韓国中銀は３年半ぶりの利上げ実施､追加利上げにも含み ～イラン情勢､異常気象､ウォン安､堅調な景気などによるインフレ長期化を警戒～",
-    "Link": "https://www.dlri.co.jp/files/macro/634379.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.07.23",
-    "Name": "2026年7月FOMCプレビュー ～利上げ提案の可能性～",
-    "Link": "https://www.dlri.co.jp/files/macro/634578.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.07.17",
-    "Name": "大学ファンド、2025年度最高益でも次の試練は「金利」か ～10兆円ファンドに問われる利子負担と支援拡充への備え～",
-    "Link": "https://www.dlri.co.jp/files/asset/634406.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.07.29",
-    "Name": "政府の「成長投資金融戦略」に加えたい視点 ～Financial Well-being、デキュムレーション、ガバナンス～",
-    "Link": "https://www.dlri.co.jp/files/asset/634728.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.07.21",
-    "Name": "時評『推し活をめぐる陰と陽』",
-    "Link": "https://www.dlri.co.jp/files/dlri/634355.pdf"
-  },
-  {
-    "Source": "DLRI",
     "Date": "2026.07.15",
-    "Name": "ウォーシュFRB議長、初の議会証言で物価抑制へ不退転の決意  ～フォワードガイダンスを拒絶、データ依存と物価安定へのレジーム・チェンジ～",
-    "Link": "https://www.dlri.co.jp/files/macro/634309.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.07.27",
-    "Name": "インドネシア中銀のペリー総裁が突然の辞任発表 ～次期総裁人事次第では市場の信認低下と資金流出圧力が強まる可能性～",
-    "Link": "https://www.dlri.co.jp/files/macro/634678.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.07.15",
-    "Name": "【1分解説】食料品の消費税減税とは？",
-    "Link": "https://www.dlri.co.jp/files/ld/634302.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.07.15",
-    "Name": "【1分解説】リスク分散効果とは？",
-    "Link": "https://www.dlri.co.jp/files/ld/634276.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.07.27",
-    "Name": "日米金融政策 日銀と「骨太ショック」",
-    "Link": "https://www.dlri.co.jp/files/macro/634695.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.07.14",
-    "Name": "ホルムズ海峡を巡る｢みかじめ料｣を要求するトランプ米大統領 ～アジア新興国で米国への不信感増幅の懸念､日本として求められる役割とは～",
-    "Link": "https://www.dlri.co.jp/files/macro/634279.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.07.29",
-    "Name": "米国：7月CB消費者信頼感は現況悪化で低下  ～景気・雇用への見方が慎重化し、消費の重石に～",
-    "Link": "https://www.dlri.co.jp/files/macro/634734.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.07.16",
-    "Name": "韓国の公的年金が直面した株高のジレンマ ～市場配慮が生む半導体・AI関連株への集中リスク～",
-    "Link": "https://www.dlri.co.jp/files/asset/634399.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.07.29",
-    "Name": "急落する半導体株の行方　ヒントは4年前の海運株？",
-    "Link": "https://www.dlri.co.jp/files/macro/634737.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.07.24",
-    "Name": "台湾･6月輸出受注は半導体をけん引役に過去最高更新（Asia Weekly） ～外需の堅調さを反映して生産も拡大の動きが続いている～",
-    "Link": "https://www.dlri.co.jp/files/macro/634619.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.07.17",
-    "Name": "インド･6月インフレは＋4.38％と17ヵ月ぶりに中銀目標超え（Asia Weekly） ～シンガポール4-6月GDPはAI･半導体関連投資の旺盛さが下支え役に～",
-    "Link": "https://www.dlri.co.jp/files/macro/634448.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.07.15",
-    "Name": "【1分解説】社会保障負担率とは？",
-    "Link": "https://www.dlri.co.jp/files/ld/634292.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.07.14",
-    "Name": "GPIFに国内投資拡大の余地はあるのか ～片山財務・金融相発言から考え得る三つの手段～",
-    "Link": "https://www.dlri.co.jp/files/asset/634288.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.07.13",
-    "Name": "異例の為替介入見送り継続 ～円安材料の雰囲気が変わるタイミングであれば、再び介入の可能性も～",
-    "Link": "https://www.dlri.co.jp/files/macro/629236.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.07.21",
-    "Name": "AI時代の金融商品取引規制 ～金融商品取引法はAIエージェントに対応できるのか～",
-    "Link": "https://www.dlri.co.jp/files/asset/634519.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.07.21",
-    "Name": "経済統計よもやま話『存在感を増す「第二次所得収支」とは？』",
-    "Link": "https://www.dlri.co.jp/files/dlri/634382.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.07.15",
-    "Name": "【1分解説】72の法則とは？",
-    "Link": "https://www.dlri.co.jp/files/ld/634299.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026年7月21",
-    "Name": "経済財政諮問会議（2026年7月21日）解説 〜日本成長戦略（案）と経済財政運営と改革の基本方針 2026（案）〜",
-    "Link": "https://www.dlri.co.jp/files/macro/634681.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.07.24",
-    "Name": "米国の老後資金は、貯めて、増やして、取り崩す ～米国の資産運用に関する税制優遇制度（401(k)、IRAなど）の概要～",
-    "Link": "https://www.dlri.co.jp/files/asset/634641.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.07.16",
-    "Name": "上振れの可能性がある2026年4-6月期GDP ～サービス輸出の一時的押し上げ、消費の底堅さが寄与か～",
-    "Link": "https://www.dlri.co.jp/files/macro/634346.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.07.10",
-    "Name": "2025年のNISA利用状況を読み解く（1） ～NISAが普及してもなお残る「なぜ日本人は投資をしないのか？」という課題～",
-    "Link": "https://www.dlri.co.jp/files/asset/629200.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.07.15",
-    "Name": "【1分解説】オンチェーン金融とは？",
-    "Link": "https://www.dlri.co.jp/files/ld/634270.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.07.15",
-    "Name": "【1分解説】戦略17分野の官民370兆円投資とは？",
-    "Link": "https://www.dlri.co.jp/files/ld/634305.pdf"
+    "Name": "【1分解説】全力投資とは？",
+    "Link": "https://www.dlri.co.jp/files/ld/634273.pdf"
   },
   {
     "Source": "DLRI",
@@ -343,111 +91,15 @@
   },
   {
     "Source": "DLRI",
-    "Date": "2026.07.21",
-    "Name": "米国：大幅増も基調は弱いまま(26年6月住宅着工)   ～許可件数は金利高やコスト高を背景に先行きの不透明感が継続～",
-    "Link": "https://www.dlri.co.jp/files/macro/634460.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.07.16",
-    "Name": "FIFAワールドカップ2026出場国の資産形成（6） カーボベルデ ～観光収入と海外居住者の送金を活用したインフラ・社会保障整備～",
-    "Link": "https://www.dlri.co.jp/files/asset/634352.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.07.14",
-    "Name": "骨太方針2026のポイント（社会保障編）  ～「社会保障負担率引き下げ目標」の本当の意味合い～",
-    "Link": "https://www.dlri.co.jp/files/macro/634263.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.07.24",
-    "Name": "消費者物価指数（全国・2026年6月） ～6月までは落ち着きも、先行きは上振れか。夏場の食品値上げラッシュに警戒～",
-    "Link": "https://www.dlri.co.jp/files/macro/634631.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.07.23",
-    "Name": "AI詐欺から資産形成を守る「奪われない力」 ～AI勧誘・投資詐欺・暗号資産送金が突く個人マネーの盲点～",
-    "Link": "https://www.dlri.co.jp/files/asset/634572.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.07.28",
-    "Name": "2026年6月の定時株主総会における株主提案の特徴 ～提案者・提案内容の分析と株主総会制度を巡る新たな動き～",
-    "Link": "https://www.dlri.co.jp/files/asset/634710.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.07.16",
-    "Name": "若者はなぜ投資を始めたのか ～新NISA時代の多様な投資要因と持続可能な資産形成への課題～",
-    "Link": "https://www.dlri.co.jp/files/asset/634326.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.07.21",
-    "Name": "成長戦略と中小企業の役割 〜戦略17分野と官民投資ロードマップの真の狙い〜",
-    "Link": "https://www.dlri.co.jp/files/macro/634526.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.07.23",
-    "Name": "韓国･4-6月GDPは外需主導で前期比年率＋2.51％と堅調を維持 ～好調な景気の一方､政局を巡る動きは日韓関係の行方にも影響を与える可能性～",
-    "Link": "https://www.dlri.co.jp/files/macro/634593.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.07.17",
-    "Name": "ファイナンシャル・ウェルビーイング志向の資産運用の可能性 ～2026年第1四半期GDW調査から～",
-    "Link": "https://www.dlri.co.jp/files/asset/634438.pdf"
-  },
-  {
-    "Source": "DLRI",
     "Date": "2026.07.30",
-    "Name": "ウォーシュＦＲＢは金利据え置きも、異例の3人が即時利上げ支持 （26年7月28､29日開催ＦＯＭＣ）  ～5会合連続で政策金利を据え置きも、委員会内のタカ派的意見対立が鮮明に～",
-    "Link": "https://www.dlri.co.jp/files/macro/638198.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.07.27",
-    "Name": "「成長投資を促進するための金融戦略」が示す家計の安定的な資産形成の促進 ～政策の重心はNISA拡充からDC制度改善へ～",
-    "Link": "https://www.dlri.co.jp/files/asset/634666.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.07.24",
-    "Name": "トランプ政権が強制労働に基づく関税措置を発動 ～日本製品には12.5%関税～",
-    "Link": "https://www.dlri.co.jp/files/macro/634628.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.07.31",
-    "Name": "消費者物価指数（東京都区部・2026年7月） ～食品・日用品で値上げの動き、先行きも上振れに警戒～",
-    "Link": "https://www.dlri.co.jp/files/macro/638212.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.07.24",
-    "Name": "10 月利上げが現実味を帯びてきた",
-    "Link": "https://www.dlri.co.jp/files/macro/634622.pdf"
+    "Name": "7 月ＦＯＭＣで学んだこと ヒントが少ないと利上げが警戒されやすい",
+    "Link": "https://www.dlri.co.jp/files/macro/638195.pdf"
   },
   {
     "Source": "DLRI",
     "Date": "2026.07.22",
-    "Name": "アジア・パシフィック経済マンスリー：2026年7月 ～一時的な緊張緩和でインフレ率は鈍化～",
-    "Link": "https://www.dlri.co.jp/files/macro/634569.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.07.27",
-    "Name": "ロシア中銀が事前予想に反して利下げ､政府と市場の板挟みが続く ～ウクライナ戦争も見通せないうえ､エネルギーや食料品などのインフレ懸念は高まる～",
-    "Link": "https://www.dlri.co.jp/files/macro/634673.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.07.10",
-    "Name": "工作機械受注が教えてくれる日本株・世界経済（26 年６月）",
-    "Link": "https://www.dlri.co.jp/files/macro/629207.pdf"
+    "Name": "米国経済マンスリー：2026年7月 ～ガソリン価格の再上昇懸念～",
+    "Link": "https://www.dlri.co.jp/files/macro/634541.pdf"
   },
   {
     "Source": "DLRI",
@@ -458,8 +110,80 @@
   {
     "Source": "DLRI",
     "Date": "2026.07.21",
-    "Name": "イベントカレンダー『各国の主要政治・経済イベント予定』(2026年8月号)",
-    "Link": "https://www.dlri.co.jp/files/dlri/634364.pdf"
+    "Name": "グローバル経済『各国経済の6ヶ月見通し』(2026年8月号)",
+    "Link": "https://www.dlri.co.jp/files/dlri/634358.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.07.31",
+    "Name": "米国の老後資産取り崩し法を試してみた ～4％ルールは本当に役に立つのか～",
+    "Link": "https://www.dlri.co.jp/files/asset/638238.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.07.13",
+    "Name": "マレーシア､地方選で国政与党どうしが激戦､政局への影響は ～アンワル首相率いるPHが連立相手BNに惨敗､早期解散･総選挙観測の行方は～",
+    "Link": "https://www.dlri.co.jp/files/macro/634252.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.07.24",
+    "Name": "消費者物価指数（全国・2026年6月） ～6月までは落ち着きも、先行きは上振れか。夏場の食品値上げラッシュに警戒～",
+    "Link": "https://www.dlri.co.jp/files/macro/634631.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.07.21",
+    "Name": "注目のキーワード『夏枯れ相場』",
+    "Link": "https://www.dlri.co.jp/files/dlri/634385.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.07.31",
+    "Name": "今局面二度目の円買い介入実施 ～効果は限定的で円安基調も変わらないが、水準修正の介入には注意～",
+    "Link": "https://www.dlri.co.jp/files/macro/638246.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.07.23",
+    "Name": "オセアニア通貨の｢豪ドル優位｣は復活するか？ ～RBAの追加利上げ観測の再浮上により、豪ドル相場に見直しの可能性～",
+    "Link": "https://www.dlri.co.jp/files/macro/634601.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.07.31",
+    "Name": "韓国･生産は世界的なAI･半導体需要が押し上げ要因に（Asia Weekly） ～電子部品や電気機械のみならず､原油の供給懸念後退で幅広い分野で生産が拡大～",
+    "Link": "https://www.dlri.co.jp/files/macro/638262.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.07.16",
+    "Name": "若者はなぜ投資を始めたのか ～新NISA時代の多様な投資要因と持続可能な資産形成への課題～",
+    "Link": "https://www.dlri.co.jp/files/asset/634326.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.07.21",
+    "Name": "米国が対カナダ関税50%を発表 ～関税対象はカナダからの輸入の約５％～",
+    "Link": "https://www.dlri.co.jp/files/macro/634501.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.07.30",
+    "Name": "ウォーシュＦＲＢは金利据え置きも、異例の3人が即時利上げ支持 （26年7月28､29日開催ＦＯＭＣ）  ～5会合連続で政策金利を据え置きも、委員会内のタカ派的意見対立が鮮明に～",
+    "Link": "https://www.dlri.co.jp/files/macro/638198.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.07.27",
+    "Name": "インドネシア中銀のペリー総裁が突然の辞任発表 ～次期総裁人事次第では市場の信認低下と資金流出圧力が強まる可能性～",
+    "Link": "https://www.dlri.co.jp/files/macro/634678.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.07.21",
+    "Name": "経済統計よもやま話『存在感を増す「第二次所得収支」とは？』",
+    "Link": "https://www.dlri.co.jp/files/dlri/634382.pdf"
   },
   {
     "Source": "DLRI",
@@ -469,15 +193,123 @@
   },
   {
     "Source": "DLRI",
+    "Date": "2026.07.17",
+    "Name": "マレーシア景気はAI･半導体､原油高を追い風に堅調に推移 ～4-6月GDPは前年比＋5.8％に加速､先行きも外部環境に左右される展開が続く～",
+    "Link": "https://www.dlri.co.jp/files/macro/634451.pdf"
+  },
+  {
+    "Source": "DLRI",
     "Date": "2026.07.21",
     "Name": "英首相交代、「北の帝王」が降臨 ～財政運営、地方再生、再公営化、外交方針はどう変わる？～",
     "Link": "https://www.dlri.co.jp/files/macro/634463.pdf"
   },
   {
     "Source": "DLRI",
+    "Date": "2026.07.23",
+    "Name": "2026年7月FOMCプレビュー ～利上げ提案の可能性～",
+    "Link": "https://www.dlri.co.jp/files/macro/634578.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.07.28",
+    "Name": "米国の攻撃停止でトランプ氏の思惑通りイラン情勢は平常化するか ～ホルムズ海峡を巡る米国とイランの対立に加え､フーシ派が新たなリスク要因に～",
+    "Link": "https://www.dlri.co.jp/files/macro/634702.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.07.13",
+    "Name": "イラン情勢と異常気象､アジア新興国への影響を考える ～スーパーエルニーニョによる影響に加え､世界的なインフレによる間接的影響にも要注意～",
+    "Link": "https://www.dlri.co.jp/files/macro/629248.pdf"
+  },
+  {
+    "Source": "DLRI",
     "Date": "2026.07.24",
-    "Name": "原油価格の再高騰とＥＣＢの追加利上げ ～９月にお会いしましょう～",
-    "Link": "https://www.dlri.co.jp/files/macro/634613.pdf"
+    "Name": "米国の老後資金は、貯めて、増やして、取り崩す ～米国の資産運用に関する税制優遇制度（401(k)、IRAなど）の概要～",
+    "Link": "https://www.dlri.co.jp/files/asset/634641.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.07.21",
+    "Name": "AI時代の金融商品取引規制 ～金融商品取引法はAIエージェントに対応できるのか～",
+    "Link": "https://www.dlri.co.jp/files/asset/634519.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.07.23",
+    "Name": "韓国･4-6月GDPは外需主導で前期比年率＋2.51％と堅調を維持 ～好調な景気の一方､政局を巡る動きは日韓関係の行方にも影響を与える可能性～",
+    "Link": "https://www.dlri.co.jp/files/macro/634593.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.07.14",
+    "Name": "GPIFに国内投資拡大の余地はあるのか ～片山財務・金融相発言から考え得る三つの手段～",
+    "Link": "https://www.dlri.co.jp/files/asset/634288.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.07.21",
+    "Name": "再びエスカレートするイラン情勢 ～戦火は着実に拡大､原油価格が世界経済や金融市場に与えるリスクに要注意～",
+    "Link": "https://www.dlri.co.jp/files/macro/634529.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.07.21",
+    "Name": "内外経済ウォッチ『米国～FRBのフォワードガイダンス排除による不確実性の高まり～』(2026年8月号)",
+    "Link": "https://www.dlri.co.jp/files/dlri/634370.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.07.15",
+    "Name": "【1分解説】オンチェーン金融とは？",
+    "Link": "https://www.dlri.co.jp/files/ld/634270.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.07.16",
+    "Name": "上振れの可能性がある2026年4-6月期GDP ～サービス輸出の一時的押し上げ、消費の底堅さが寄与か～",
+    "Link": "https://www.dlri.co.jp/files/macro/634346.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.07.14",
+    "Name": "AIエージェントは資産運用の「実行役」になれるのか ～「相談相手」から「実行役」へ、エージェント型取引と投資家保護～",
+    "Link": "https://www.dlri.co.jp/files/asset/634257.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.07.15",
+    "Name": "中国景気は｢外需＞内需｣と｢供給＞需要｣の構図が続いている ～名実逆転解消も､先行きの景気は｢Ｋ字型｣の様相を一段と強めると見込まれる～",
+    "Link": "https://www.dlri.co.jp/files/macro/634314.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.07.21",
+    "Name": "米国：大幅増も基調は弱いまま(26年6月住宅着工)   ～許可件数は金利高やコスト高を背景に先行きの不透明感が継続～",
+    "Link": "https://www.dlri.co.jp/files/macro/634460.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.07.15",
+    "Name": "【1分解説】リスク分散効果とは？",
+    "Link": "https://www.dlri.co.jp/files/ld/634276.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.07.31",
+    "Name": "2026年4-6月期GDP予測（1次速報） ～前期比年率＋1.6％と予想。イラン情勢悪化のなかでも景気は崩れず～",
+    "Link": "https://www.dlri.co.jp/files/macro/638265.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.07.21",
+    "Name": "ニュージーランドのインフレ確認も､RBNZにとっては｢想定内｣か ～インフレ率は加速もコアインフレ率は安定､RBNZはしばらく様子見姿勢が可能になるか～",
+    "Link": "https://www.dlri.co.jp/files/macro/634491.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.07.21",
+    "Name": "成長戦略と中小企業の役割 〜戦略17分野と官民投資ロードマップの真の狙い〜",
+    "Link": "https://www.dlri.co.jp/files/macro/634526.pdf"
   },
   {
     "Source": "DLRI",
@@ -488,14 +320,152 @@
   {
     "Source": "DLRI",
     "Date": "2026.07.21",
-    "Name": "内外経済ウォッチ『アジア・新興国～AI･半導体は韓国経済の救世主となるか～』(2026年8月号)",
-    "Link": "https://www.dlri.co.jp/files/dlri/634376.pdf"
+    "Name": "内外経済ウォッチ『欧州～短命政権の主役はイタリアから英国に交代～』(2026年8月号)",
+    "Link": "https://www.dlri.co.jp/files/dlri/634373.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.07.14",
+    "Name": "FRBがタスクフォースの責任者を発表 ～ルールから裁量、サイエンスからアート～",
+    "Link": "https://www.dlri.co.jp/files/macro/634282.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.07.24",
+    "Name": "南ア準備銀行､事前予想に反して金利据え置き､ランド相場はどうなる？ ～物価上昇の一方で景気減速を懸念､金融引き締めが後手に回る可能性も～",
+    "Link": "https://www.dlri.co.jp/files/macro/634651.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.07.14",
+    "Name": "ホルムズ海峡を巡る｢みかじめ料｣を要求するトランプ米大統領 ～アジア新興国で米国への不信感増幅の懸念､日本として求められる役割とは～",
+    "Link": "https://www.dlri.co.jp/files/macro/634279.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.07.15",
+    "Name": "【1分解説】食料品の消費税減税とは？",
+    "Link": "https://www.dlri.co.jp/files/ld/634302.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.07.21",
+    "Name": "米国：中東緊迫の反動で6月鉱工業生産は下振れ   ～単月減速もAI・自動車が押し上げ基調維持～",
+    "Link": "https://www.dlri.co.jp/files/macro/634494.pdf"
   },
   {
     "Source": "DLRI",
     "Date": "2026.07.22",
-    "Name": "米国経済マンスリー：2026年7月 ～ガソリン価格の再上昇懸念～",
-    "Link": "https://www.dlri.co.jp/files/macro/634541.pdf"
+    "Name": "ＡＩバブル測定器としての台湾 輸出受注　相場に燃料補給",
+    "Link": "https://www.dlri.co.jp/files/macro/634533.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.07.13",
+    "Name": "異例の為替介入見送り継続 ～円安材料の雰囲気が変わるタイミングであれば、再び介入の可能性も～",
+    "Link": "https://www.dlri.co.jp/files/macro/629236.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.07.31",
+    "Name": "消費者物価指数（東京都区部・2026年7月） ～食品・日用品で値上げの動き、先行きも上振れに警戒～",
+    "Link": "https://www.dlri.co.jp/files/macro/638212.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.07.22",
+    "Name": "2025年スポットワーク市場規模の推計 ～2025年のスポットワーク市場規模は1,503億円と推計、3年間で約4倍に拡大～",
+    "Link": "https://www.dlri.co.jp/files/macro/634544.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.07.28",
+    "Name": "2026年6月の定時株主総会における株主提案の特徴 ～提案者・提案内容の分析と株主総会制度を巡る新たな動き～",
+    "Link": "https://www.dlri.co.jp/files/asset/634710.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.07.23",
+    "Name": "AI詐欺から資産形成を守る「奪われない力」 ～AI勧誘・投資詐欺・暗号資産送金が突く個人マネーの盲点～",
+    "Link": "https://www.dlri.co.jp/files/asset/634572.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.07.31",
+    "Name": "2026年後半の中国経済は｢公共投資頼み｣となるか ～７月の企業マインドは幅広く悪化も大規模対策なし､党内では統制強化が進む見通し～",
+    "Link": "https://www.dlri.co.jp/files/macro/638249.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.07.16",
+    "Name": "韓国の公的年金が直面した株高のジレンマ ～市場配慮が生む半導体・AI関連株への集中リスク～",
+    "Link": "https://www.dlri.co.jp/files/asset/634399.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.07.24",
+    "Name": "南鳥島レアアース試掘結果公表 ～中重希土類を豊富に含み、中国依存からの脱却に光明～",
+    "Link": "https://www.dlri.co.jp/files/macro/634646.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.07.15",
+    "Name": "ウォーシュFRB議長、初の議会証言で物価抑制へ不退転の決意  ～フォワードガイダンスを拒絶、データ依存と物価安定へのレジーム・チェンジ～",
+    "Link": "https://www.dlri.co.jp/files/macro/634309.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.07.17",
+    "Name": "ファイナンシャル・ウェルビーイング志向の資産運用の可能性 ～2026年第1四半期GDW調査から～",
+    "Link": "https://www.dlri.co.jp/files/asset/634438.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.07.22",
+    "Name": "アジア・パシフィック経済マンスリー：2026年7月 ～一時的な緊張緩和でインフレ率は鈍化～",
+    "Link": "https://www.dlri.co.jp/files/macro/634569.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.07.22",
+    "Name": "進む代替調達、膨らむ輸入コスト（2026年6月貿易統計） ～供給面での下振れリスクは大きく低下も、価格面の負担は残る～",
+    "Link": "https://www.dlri.co.jp/files/macro/634553.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.07.15",
+    "Name": "【1分解説】社会保障負担率とは？",
+    "Link": "https://www.dlri.co.jp/files/ld/634292.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.07.17",
+    "Name": "大学ファンド、2025年度最高益でも次の試練は「金利」か ～10兆円ファンドに問われる利子負担と支援拡充への備え～",
+    "Link": "https://www.dlri.co.jp/files/asset/634406.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026年7月21",
+    "Name": "経済財政諮問会議（2026年7月21日）解説 〜日本成長戦略（案）と経済財政運営と改革の基本方針 2026（案）〜",
+    "Link": "https://www.dlri.co.jp/files/macro/634681.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.07.24",
+    "Name": "期限切れの健康保険証、2026年8月からは使えない ～受診前に確認したい「マイナ保険証」「資格確認書」「電子証明書」～",
+    "Link": "https://www.dlri.co.jp/files/asset/634660.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.07.29",
+    "Name": "急落する半導体株の行方　ヒントは4年前の海運株？",
+    "Link": "https://www.dlri.co.jp/files/macro/634737.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.07.17",
+    "Name": "米国がブラジルに25％の関税発動､通商政策の不確実要因となるか ～ブラジルは経済相互主義法に基づく報復へ､米国の通商政策が世界経済をかく乱するか～",
+    "Link": "https://www.dlri.co.jp/files/macro/634409.pdf"
   },
   {
     "Source": "DLRI",
@@ -505,9 +475,147 @@
   },
   {
     "Source": "DLRI",
+    "Date": "2026.07.27",
+    "Name": "日米金融政策 日銀と「骨太ショック」",
+    "Link": "https://www.dlri.co.jp/files/macro/634695.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.07.31",
+    "Name": "都区部版・消費者物価のコア指標（2026/07） ～すべての指標がジワリと上昇率拡大～",
+    "Link": "https://www.dlri.co.jp/files/macro/638207.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.07.31",
+    "Name": "日銀金融政策決定会合（2026年7月） ～物価上振れリスクを強調も、利上げ加速のシグナルは乏しい～",
+    "Link": "https://www.dlri.co.jp/files/macro/638243.pdf"
+  },
+  {
+    "Source": "DLRI",
     "Date": "2026.07.21",
     "Name": "時事雑感(2026年8月号)",
     "Link": "https://www.dlri.co.jp/files/dlri/634388.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.07.15",
+    "Name": "【1分解説】戦略17分野の官民370兆円投資とは？",
+    "Link": "https://www.dlri.co.jp/files/ld/634305.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.07.31",
+    "Name": "ＡＩバブル測定器としての６月鉱工業生産",
+    "Link": "https://www.dlri.co.jp/files/macro/638221.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.07.27",
+    "Name": "米国：地政学リスクのなかサービス業主導で7月PMIが加速   ～大型イベントによる需要拡大の一方、コスト転嫁と根強いインフレ圧力は継続～",
+    "Link": "https://www.dlri.co.jp/files/macro/634684.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.07.23",
+    "Name": "６月でナフサの価格転嫁はどこまで進んだのか ～コストの波及シミュレーションと６月企業物価指数によるアップデート～",
+    "Link": "https://www.dlri.co.jp/files/macro/634604.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.07.16",
+    "Name": "FIFAワールドカップ2026出場国の資産形成（6） カーボベルデ ～観光収入と海外居住者の送金を活用したインフラ・社会保障整備～",
+    "Link": "https://www.dlri.co.jp/files/asset/634352.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.07.21",
+    "Name": "イベントカレンダー『各国の主要政治・経済イベント予定』(2026年8月号)",
+    "Link": "https://www.dlri.co.jp/files/dlri/634364.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.07.22",
+    "Name": "インドで存在感を増す｢ゴキブリ｣､インド政治への影響は ～若年層の不満を背景に､SNS発の風刺運動が現実の政治運動へ発展～",
+    "Link": "https://www.dlri.co.jp/files/macro/634556.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.07.22",
+    "Name": "インドネシア中銀､ルピア安懸念も成長重視を理由に金利据え置き ～政府の成長重視姿勢が中銀の独立性と市場の信認を揺るがす懸念～",
+    "Link": "https://www.dlri.co.jp/files/macro/634564.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.07.10",
+    "Name": "原油需給の現状整理 ～控える構造的な供給過剰と地政学リスクの再燃～",
+    "Link": "https://www.dlri.co.jp/files/macro/629228.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.07.15",
+    "Name": "【1分解説】72の法則とは？",
+    "Link": "https://www.dlri.co.jp/files/ld/634299.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.07.24",
+    "Name": "トランプ政権が強制労働に基づく関税措置を発動 ～日本製品には12.5%関税～",
+    "Link": "https://www.dlri.co.jp/files/macro/634628.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.07.21",
+    "Name": "マーケット見通し『向こう１年間の市場見通し』(2026年8月号)",
+    "Link": "https://www.dlri.co.jp/files/dlri/634361.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.07.17",
+    "Name": "米国：小売売上高は単月で鈍化も基調は強まった(26年6月)  ～税還付の余力や株高等が下支え、W杯開催も消費を後押し～",
+    "Link": "https://www.dlri.co.jp/files/macro/634412.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.07.21",
+    "Name": "時評『推し活をめぐる陰と陽』",
+    "Link": "https://www.dlri.co.jp/files/dlri/634355.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.07.14",
+    "Name": "骨太方針2026のポイント（社会保障編）  ～「社会保障負担率引き下げ目標」の本当の意味合い～",
+    "Link": "https://www.dlri.co.jp/files/macro/634263.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.07.29",
+    "Name": "米国：7月CB消費者信頼感は現況悪化で低下  ～景気・雇用への見方が慎重化し、消費の重石に～",
+    "Link": "https://www.dlri.co.jp/files/macro/634734.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.07.29",
+    "Name": "政府の「成長投資金融戦略」に加えたい視点 ～Financial Well-being、デキュムレーション、ガバナンス～",
+    "Link": "https://www.dlri.co.jp/files/asset/634728.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.07.21",
+    "Name": "内外経済ウォッチ『アジア・新興国～AI･半導体は韓国経済の救世主となるか～』(2026年8月号)",
+    "Link": "https://www.dlri.co.jp/files/dlri/634376.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.07.31",
+    "Name": "米国：AI関連投資の名実乖離 ～実質投資に鈍化の兆し～",
+    "Link": "https://www.dlri.co.jp/files/macro/638252.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.07.24",
+    "Name": "トルコ中銀､イラン情勢の再燃で様子見姿勢を維持 ～原油高と異常気象の物価への影響､リラ相場も見通しが立たない展開が続くか～",
+    "Link": "https://www.dlri.co.jp/files/macro/634636.pdf"
   },
   {
     "Source": "JRI",
@@ -550,6 +658,12 @@
     "Date": "2026年07月09日",
     "Name": "為替相場展望2026年７月号：◆ドル円：年終盤から緩やかな円高へ◆ユーロ：対ドルは緩やかなユーロ高へ（PDF：878KB）",
     "Link": "https://www.jri.co.jp/file/report/exchange/pdf/16816.pdf"
+  },
+  {
+    "Source": "MURC",
+    "Date": "2026/07/31",
+    "Name": "2026年4～6月期のGDP（1次速報）予測",
+    "Link": "https://www.murc.jp/wp-content/uploads/2026/07/gdp_est_2607_01.pdf"
   },
   {
     "Source": "MURC",
@@ -618,22 +732,52 @@
     "Link": "https://www.murc.jp/wp-content/uploads/2026/07/report_260703_01.pdf"
   },
   {
-    "Source": "MURC",
-    "Date": "2026/07/02",
-    "Name": "グラフで見る景気予報 (2026年7月)",
-    "Link": "https://www.murc.jp/wp-content/uploads/2026/07/gr_2607_01.pdf"
+    "Source": "NLI",
+    "Date": "2026年07月31日",
+    "Name": "英国金融政策（7月ＭＰＣ公表）－金利据え置き決定、利上げ主張はさらに増加",
+    "Link": "https://www.nli-research.co.jp/files/topics/86416_ext_18_0.pdf?site=nli"
   },
   {
-    "Source": "MURC",
-    "Date": "2026/07/02",
-    "Name": "中国景気概況（2026年7月）",
-    "Link": "https://www.murc.jp/wp-content/uploads/2026/07/china_2607_01.pdf"
+    "Source": "NLI",
+    "Date": "2026年07月31日",
+    "Name": "2026年4-6月期の実質GDP～前期比0.6％（年率2.4％）を予測～",
+    "Link": "https://www.nli-research.co.jp/files/topics/86414_ext_18_0.pdf?site=nli"
   },
   {
-    "Source": "MURC",
-    "Date": "2026/07/02",
-    "Name": "欧州景気概況（2026年7月）",
-    "Link": "https://www.murc.jp/wp-content/uploads/2026/07/europe_2607_01.pdf"
+    "Source": "NLI",
+    "Date": "2026年07月31日",
+    "Name": "米個人所得・消費支出（26年6月）－PCE価格指数（前年同月比）は総合、コアともに前月から低下",
+    "Link": "https://www.nli-research.co.jp/files/topics/86418_ext_18_0.pdf?site=nli"
+  },
+  {
+    "Source": "NLI",
+    "Date": "2026年07月31日",
+    "Name": "ユーロ圏ＧＤＰ（2026年4-6月期）－エネルギー高の逆風下でも堅調な成長を維持",
+    "Link": "https://www.nli-research.co.jp/files/topics/86417_ext_18_0.pdf?site=nli"
+  },
+  {
+    "Source": "NLI",
+    "Date": "2026年07月31日",
+    "Name": "米ＧＤＰ（26年4－6月期）－前期比年率+1.5％と前期から伸びが鈍化、市場予想（+2.0％）も下回る",
+    "Link": "https://www.nli-research.co.jp/files/topics/86413_ext_18_0.pdf?site=nli"
+  },
+  {
+    "Source": "NLI",
+    "Date": "2026年07月31日",
+    "Name": "ユーロ圏失業率（2026年6月）－失業率は横ばい、若年失業率は低下",
+    "Link": "https://www.nli-research.co.jp/files/topics/86415_ext_18_0.pdf?site=nli"
+  },
+  {
+    "Source": "NLI",
+    "Date": "2026年07月31日",
+    "Name": "鉱工業生産26年6月－4-6月期の生産は横ばい、先行きは熊本地震の影響で下振れる可能性",
+    "Link": "https://www.nli-research.co.jp/files/topics/86390_ext_18_0.pdf?site=nli"
+  },
+  {
+    "Source": "NLI",
+    "Date": "2026年07月31日",
+    "Name": "雇用関連統計2026年６月－就業者数が減少も、均せば増加傾向－",
+    "Link": "https://www.nli-research.co.jp/files/topics/86412_ext_18_0.pdf?site=nli"
   },
   {
     "Source": "NLI",
@@ -646,54 +790,6 @@
     "Date": "2026年07月30日",
     "Name": "インバウンド消費の動向（2026年4-6月期）－訪日客数減でも消費額は維持、「量から質」への転換が現実に",
     "Link": "https://www.nli-research.co.jp/files/topics/86392_ext_18_0.pdf?site=nli"
-  },
-  {
-    "Source": "NLI",
-    "Date": "2026年07月29日",
-    "Name": "米有権者登録制度改革の行方－トランプ大統領がSAVE Actにこだわる理由",
-    "Link": "https://www.nli-research.co.jp/files/topics/86394_ext_18_0.pdf?site=nli"
-  },
-  {
-    "Source": "NLI",
-    "Date": "2026年07月28日",
-    "Name": "チャイナ・ショック2.0と欧州－再考迫られる競争力危機対策－",
-    "Link": "https://www.nli-research.co.jp/files/topics/86389_ext_18_0.pdf?site=nli"
-  },
-  {
-    "Source": "NLI",
-    "Date": "2026年07月28日",
-    "Name": "最低賃金1,500円はシニア就労を変えるか－処遇改善の効果と就業拡大の限界",
-    "Link": "https://www.nli-research.co.jp/files/topics/86387_ext_18_0.pdf?site=nli"
-  },
-  {
-    "Source": "NLI",
-    "Date": "2026年07月28日",
-    "Name": "GPIFは金利上昇への「処方箋」になり得るか－2014年との比較から考える公的年金運用の判断基準",
-    "Link": "https://www.nli-research.co.jp/files/topics/86385_ext_18_0.pdf?site=nli"
-  },
-  {
-    "Source": "NLI",
-    "Date": "2026年07月24日",
-    "Name": "ＥＣＢ政策理事会－今回は据え置きを決定、タカ派姿勢は維持",
-    "Link": "https://www.nli-research.co.jp/files/topics/86349_ext_18_0.pdf?site=nli"
-  },
-  {
-    "Source": "NLI",
-    "Date": "2026年07月24日",
-    "Name": "「補正予算依存」の現状分析：省庁別の予算を確認する－経済産業省の補正予算は当初予算の2.6倍",
-    "Link": "https://www.nli-research.co.jp/files/topics/86346_ext_18_0.pdf?site=nli"
-  },
-  {
-    "Source": "NLI",
-    "Date": "2026年07月24日",
-    "Name": "消費者物価（全国26年6月）－コアCPI上昇率は5ヵ月連続の1％台だが、先行きは食料中心に上昇ペースが加速する見込み",
-    "Link": "https://www.nli-research.co.jp/files/topics/86329_ext_18_0.pdf?site=nli"
-  },
-  {
-    "Source": "NLI",
-    "Date": "2026年07月23日",
-    "Name": "中国：26年4～6月期GDPの評価－中東情勢、不動産不況、地方債務などの内憂外患を背景に減速",
-    "Link": "https://www.nli-research.co.jp/files/topics/86342_ext_18_0.pdf?site=nli"
   },
   {
     "Source": "NLI",
@@ -721,15 +817,9 @@
   },
   {
     "Source": "NLI",
-    "Date": "2026年06月16日",
-    "Name": "欧州経済見通し－インフレ上振れ、成長率下振れ圧力が強まる",
-    "Link": "https://www.nli-research.co.jp/files/topics/85898_ext_18_0.pdf?site=nli"
-  },
-  {
-    "Source": "NLI",
-    "Date": "2026年07月23日",
-    "Name": "「プレミアム付商品券」は効率的な事業か？",
-    "Link": "https://www.nli-research.co.jp/files/topics/86339_ext_18_0.pdf?site=nli"
+    "Date": "2026年07月28日",
+    "Name": "GPIFは金利上昇への「処方箋」になり得るか－2014年との比較から考える公的年金運用...",
+    "Link": "https://www.nli-research.co.jp/files/topics/86385_ext_18_0.pdf?site=nli"
   },
   {
     "Source": "Sony FG",
