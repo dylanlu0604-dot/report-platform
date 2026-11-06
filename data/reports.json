@@ -66,132 +66,6 @@
     "Link": "https://www.dir.co.jp/report/research/economics/usa/20261027_026161.pdf"
   },
   {
-    "Source": "DIR",
-    "Date": "2026年10月26日",
-    "Name": "生成AI時代の景気判断とテキスト経済指標",
-    "Link": "https://www.dir.co.jp/report/research/economics/japan/20261026_030188.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.10.29",
-    "Name": "AI関連投資の失速は日本にどう波及するか ～日銀の金融システムレポートから考察する三つの経路～",
-    "Link": "https://www.dlri.co.jp/files/asset/672206.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.10.30",
-    "Name": "韓国・９月鉱工業生産も半導体をけん引役にした拡大が続く（Asia Weekly） ～半導体のほか、自動車・電装品、電気機械関連など外需が生産を押し上げる～",
-    "Link": "https://www.dlri.co.jp/files/macro/672298.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.10.27",
-    "Name": "９月企業向けサービス価格指数 ～前年比＋3.7％、国際運輸を中心に幾分加速～",
-    "Link": "https://www.dlri.co.jp/files/macro/666907.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.10.19",
-    "Name": "日経平均株価は10 月が苦手で11 月は得意？",
-    "Link": "https://www.dlri.co.jp/files/macro/666693.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.11.02",
-    "Name": "2027年春闘の初動モメンタム・アップデート ～経労委報告原案と産別要求からも賃上げ意欲を確認～",
-    "Link": "https://www.dlri.co.jp/files/macro/672323.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.10.16",
-    "Name": "利上げで悪化する一部AI関連企業の資金調達環境 ～半導体市場に影響も、中長期的な市場拡大は変わらず～",
-    "Link": "https://www.dlri.co.jp/files/macro/666613.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.10.20",
-    "Name": "時事雑感(2026年11月号)",
-    "Link": "https://www.dlri.co.jp/files/dlri/666670.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.10.29",
-    "Name": "口座情報へのサイバー攻撃に「能動的防御」は発動されるか ～能動的サイバー防御とサイバー対処能力強化法・整備法～",
-    "Link": "https://www.dlri.co.jp/files/asset/672200.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.10.29",
-    "Name": "金利上昇下で問われるJ-REITの収益力 ～借換え負担と資金配分に着目して～",
-    "Link": "https://www.dlri.co.jp/files/asset/672221.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.10.30",
-    "Name": "中共５中全会閉幕、次期党大会を見据えて党・軍への統制強化を加速 ～経済政策の実効性と日中関係の行方にも注目～",
-    "Link": "https://www.dlri.co.jp/files/macro/672289.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.10.29",
-    "Name": "米国：消費・ＡＩ投資主導で年率＋3.4％へ加速（26年7-9月期ＧＤＰ)  ～力強い内需と高止まりするインフレが継続、ＦＲＢの追加利上げを後押し～",
-    "Link": "https://www.dlri.co.jp/files/macro/672240.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.10.28",
-    "Name": "RBNZの予想外の利上げ見送りで、NZドル相場は一段と弱含むか ～追加利上げの時期や総選挙を巡る不透明感が重なり、豪ドルとの対照的な動きが続くか～",
-    "Link": "https://www.dlri.co.jp/files/macro/666951.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.10.20",
-    "Name": "アジア・パシフィック経済マンスリー：2026年10月 ～AI特需の加速とインフレの再燃～",
-    "Link": "https://www.dlri.co.jp/files/macro/666726.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.10.28",
-    "Name": "ガソリン補助金の段階的縮小を巡る論点 ～物価上振れ・家計負担増と財政負担のジレンマ～",
-    "Link": "https://www.dlri.co.jp/files/macro/666941.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.10.28",
-    "Name": "市場全体の「ベータを高める」システムレベル投資とは ～ユニバーサルオーナー理論によるサステナブルファイナンスの新しい評価～",
-    "Link": "https://www.dlri.co.jp/files/asset/666925.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.10.20",
-    "Name": "時評『「周回遅れ」からの出発』",
-    "Link": "https://www.dlri.co.jp/files/dlri/666633.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.10.20",
-    "Name": "預金再考 ～「貯蓄から投資へ」をアップデートする～",
-    "Link": "https://www.dlri.co.jp/files/asset/666720.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.10.20",
-    "Name": "内外経済ウォッチ『米国～中間選挙後の「トランプリスク」再燃～』(2026年11月号)",
-    "Link": "https://www.dlri.co.jp/files/dlri/666653.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.10.20",
-    "Name": "内外経済ウォッチ『日本～米国の「リフレ脱却」要請と日米経済政策の実態～』(2026年11月号)",
-    "Link": "https://www.dlri.co.jp/files/dlri/666647.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.10.27",
-    "Name": "利上げ局面で低下に転じている債券利回り ～景気減速懸念などリスクオフによる金利低下か～",
-    "Link": "https://www.dlri.co.jp/files/macro/666892.pdf"
-  },
-  {
     "Source": "DLRI",
     "Date": "2026.11.02",
     "Name": "日本の「AI一本足経済度」を考える ～需要国でも供給国でもある日本～",
@@ -199,219 +73,27 @@
   },
   {
     "Source": "DLRI",
-    "Date": "2026.10.20",
-    "Name": "内外経済ウォッチ『アジア・新興国～AI半導体は韓国景気に追い風も､政治の逆風が続く～』(2026年11月号)",
-    "Link": "https://www.dlri.co.jp/files/dlri/666659.pdf"
+    "Date": "2026.11.06",
+    "Name": "不動産市場で存在感を増す私募ファンド ～多様な運用戦略とREITとの補完関係～",
+    "Link": "https://www.dlri.co.jp/files/asset/672438.pdf"
   },
   {
     "Source": "DLRI",
-    "Date": "2026.10.20",
-    "Name": "マーケット見通し『向こう１年間の市場見通し』(2026年11月号)",
-    "Link": "https://www.dlri.co.jp/files/dlri/666639.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.10.16",
-    "Name": "当面の経済運営の課題と歳入・歳出改革の論点  ～「責任ある積極財政」の次期課題～",
-    "Link": "https://www.dlri.co.jp/files/macro/666616.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.10.20",
-    "Name": "ブラジル大統領選は決選投票を前に一段と接戦の様相をみせる ～初の直接討論会は非難の応酬に終始、市場は選挙後の政策運営を巡る不透明感を警戒～",
-    "Link": "https://www.dlri.co.jp/files/macro/666745.pdf"
+    "Date": "2026.11.06",
+    "Name": "日銀『経済・物価情勢の展望（2026年10月）』BOX3（高齢者消費分析）に対する構造的検証と評価 〜分析テーマ：ビッグデータ利用における選択バイアスと公的統計との比較分析～",
+    "Link": "https://www.dlri.co.jp/files/macro/672441.pdf"
   },
   {
     "Source": "DLRI",
     "Date": "2026.10.30",
-    "Name": "インフレ警戒も利上げを急がないＥＣＢ ～長期金利上昇が追加利上げ判断を複雑に～",
-    "Link": "https://www.dlri.co.jp/files/macro/672267.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.11.02",
-    "Name": "米国：中間選挙アップデート（2026年11月） ～期日前投票でも民主党に勢い～",
-    "Link": "https://www.dlri.co.jp/files/macro/672308.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.10.29",
-    "Name": "利上げの効果を確認したＦＯＭＣ",
-    "Link": "https://www.dlri.co.jp/files/macro/672218.pdf"
+    "Name": "慎重な一面も感じられた日銀 世界同時引き締めの影響は？",
+    "Link": "https://www.dlri.co.jp/files/macro/672295.pdf"
   },
   {
     "Source": "DLRI",
     "Date": "2026.10.20",
-    "Name": "イベントカレンダー『各国の主要政治・経済イベント予定』(2026年11月号)",
-    "Link": "https://www.dlri.co.jp/files/dlri/666642.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.10.30",
-    "Name": "都区部版・消費者物価のコア指標（2026/10） ～底堅く推移、日銀は2％到達を表明へ～",
-    "Link": "https://www.dlri.co.jp/files/macro/672247.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.10.27",
-    "Name": "ブラジルの「トリプル安」は一過性の混乱にとどまるか ～ルラ氏の逆転勝利で財政懸念が再燃、硬直的な歳出構造が信認回復の足かせに～",
-    "Link": "https://www.dlri.co.jp/files/macro/666918.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.10.16",
-    "Name": "インド、９月インフレ率は前年比＋5.54％に一段と加速（Asia Weekly） ～オーストラリア、大都市部を中心とする雇用に変調の兆し～",
-    "Link": "https://www.dlri.co.jp/files/macro/666673.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.11.02",
-    "Name": "中国･５中全会で党内統治の引き締め強化も、景気には不透明感 ～習近平指導部の４期目入りを見据える一方、景気低迷と株安への対応が課題に～",
-    "Link": "https://www.dlri.co.jp/files/macro/672329.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.10.30",
-    "Name": "消費者物価指数（東京都区部・2026年10月） ～特殊要因剥落で表面上は鈍化も、物価上振れリスクは後退せず～",
-    "Link": "https://www.dlri.co.jp/files/macro/672250.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.10.26",
-    "Name": "フランス国債売りは行きすぎか？ ～格下げ回避で一息も、政権交代後の財政運営に潜むリスク～",
-    "Link": "https://www.dlri.co.jp/files/macro/666851.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.11.04",
-    "Name": "米中間選挙での民主党躍進は、トランプ米政権のイラン政策を変えるか ～議会の制約強化で軍事行動に慎重姿勢も、外交交渉の停滞や紛争再拡大のリスクは残る～",
-    "Link": "https://www.dlri.co.jp/files/macro/672371.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.10.19",
-    "Name": "米国：自動車の急減も鉱工業生産は急拡大(2026年9月)   ～記録的猛暑とAI需要が押し上げるも、稼働率は依然低水準～",
-    "Link": "https://www.dlri.co.jp/files/macro/666704.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.11.04",
-    "Name": "米国10月ISM製造業指数は予想を上振れ、仕入価格は高止まり   ～AI・防衛等の需要が底上げ、インフレ懸念に伴う米金利上昇・ドル強含みへ～",
-    "Link": "https://www.dlri.co.jp/files/macro/672377.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.10.28",
-    "Name": "出生世代別にみる家計金融資産の増加 ～インフレ転換で変わる日本の家計②～",
-    "Link": "https://www.dlri.co.jp/files/macro/666928.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.10.15",
-    "Name": "米国コアCPIが2カ月連続で予想上振れ(2026年9月)  ～10月据え置きも12月追加利上げの確度高まる～",
-    "Link": "https://www.dlri.co.jp/files/macro/666578.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.10.30",
-    "Name": "AI バブル測定器としての鉱工業生産（26 年９月）",
-    "Link": "https://www.dlri.co.jp/files/macro/672272.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.10.19",
-    "Name": "パリは燃えている、揺れるフランス政治 ～大規模抗議が揺さぶる財政再建と大統領選挙～",
-    "Link": "https://www.dlri.co.jp/files/macro/666685.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.10.23",
-    "Name": "基調的物価上昇率２％到達後の金融政策",
-    "Link": "https://www.dlri.co.jp/files/macro/666826.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026年10月27",
-    "Name": "ＦＲＢ、10月FOMCは3.75～4.00％に据え置きもタカ派的 （2026年10月27～28日ＦＯＭＣ）   ～景気判断上方修正と2名反対、中間選挙後の12月に利上げへ～",
-    "Link": "https://www.dlri.co.jp/files/macro/672203.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.10.22",
-    "Name": "2027年春闘、初動のモメンタムは現時点で良好 ～労働側、経営側とも昨年からのトーンダウンはみられず～",
-    "Link": "https://www.dlri.co.jp/files/macro/666813.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.10.15",
-    "Name": "韓国株が急落、AI・半導体好況の陰で市場の調整が深まる ～AI投資の先行き不安や米国の金利上昇、外国人投資家の売却圧力が重しに～",
-    "Link": "https://www.dlri.co.jp/files/macro/666600.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.10.20",
-    "Name": "グローバル経済『各国経済の6ヶ月見通し』(2026年11月号)",
-    "Link": "https://www.dlri.co.jp/files/dlri/666636.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.10.26",
-    "Name": "米国：低迷する住宅市場 ～住宅購入コストはコロナ以降に倍増～",
-    "Link": "https://www.dlri.co.jp/files/macro/666846.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.10.30",
-    "Name": "2026年7-9月期GDP予測（1次速報） ～前期比年率＋0.4％と予想。成長率は鈍化も、景気回復の流れは崩れず～",
-    "Link": "https://www.dlri.co.jp/files/macro/672304.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.10.20",
-    "Name": "注目のキーワード『金融レジリエンス』",
-    "Link": "https://www.dlri.co.jp/files/dlri/666667.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.10.22",
-    "Name": "2026年10月FOMCプレビュー ～インフレ認識とAI投資の持続性～",
-    "Link": "https://www.dlri.co.jp/files/macro/666789.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.10.22",
-    "Name": "158円を挟んで膠着するドル円相場 ～中間選挙・イラン・金融政策の\"三つの分岐点\"が方向性を決める～",
-    "Link": "https://www.dlri.co.jp/files/macro/666804.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.10.26",
-    "Name": "ブラジル大統領選、ルラ氏が逆転勝利も政権運営には難路 ～議会での右派勢力拡大が足かせに、財政健全化と家計支援の両立が焦点～",
-    "Link": "https://www.dlri.co.jp/files/macro/666866.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.11.04",
-    "Name": "利上げを飲み込めそうな米経済",
-    "Link": "https://www.dlri.co.jp/files/macro/672358.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.10.20",
-    "Name": "ここが知りたい『投資信託販売チャネルの変化と現在地』",
-    "Link": "https://www.dlri.co.jp/files/dlri/666662.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.10.21",
-    "Name": "インドネシア中銀、市場動揺も、政策運営は政府と市場の「板挟み」が続く ～一部の利上げ観測に「ゼロ回答」、様々な政策目標実現へ難しい対応が続くと予想される～",
-    "Link": "https://www.dlri.co.jp/files/macro/666784.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.10.23",
-    "Name": "台湾・９月の輸出受注額も過去最高を更新（Asia Weekly） ～世界的なAI・半導体関連需要の旺盛さが引き続き輸出受注をけん引～",
-    "Link": "https://www.dlri.co.jp/files/macro/666840.pdf"
+    "Name": "内外経済ウォッチ『米国～中間選挙後の「トランプリスク」再燃～』(2026年11月号)",
+    "Link": "https://www.dlri.co.jp/files/dlri/666653.pdf"
   },
   {
     "Source": "DLRI",
@@ -422,32 +104,50 @@
   {
     "Source": "DLRI",
     "Date": "2026.10.30",
-    "Name": "慎重な一面も感じられた日銀 世界同時引き締めの影響は？",
-    "Link": "https://www.dlri.co.jp/files/macro/672295.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.10.21",
-    "Name": "米国26年9月住宅着工はパンデミック以来の低水準   ～予想外の3カ月連続減少、トランプ政権の関税・高金利が悪影響～",
-    "Link": "https://www.dlri.co.jp/files/macro/666760.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.10.19",
-    "Name": "米国2026年9月小売売上高は予想を大幅に上振れ   ～高金利下での消費堅調が示すFRBの高金利長期化スタンス～",
-    "Link": "https://www.dlri.co.jp/files/macro/666676.pdf"
+    "Name": "都区部版・消費者物価のコア指標（2026/10） ～底堅く推移、日銀は2％到達を表明へ～",
+    "Link": "https://www.dlri.co.jp/files/macro/672247.pdf"
   },
   {
     "Source": "DLRI",
     "Date": "2026.10.20",
-    "Name": "日銀の金融政策：審議委員人事と企業金融が鍵に",
-    "Link": "https://www.dlri.co.jp/files/macro/666729.pdf"
+    "Name": "時評『「周回遅れ」からの出発』",
+    "Link": "https://www.dlri.co.jp/files/dlri/666633.pdf"
   },
   {
     "Source": "DLRI",
-    "Date": "2026.10.21",
-    "Name": "米国経済マンスリー：2026年10月 ～景気が堅調ななか、インフレ高止まりへの懸念が持続～",
-    "Link": "https://www.dlri.co.jp/files/macro/666772.pdf"
+    "Date": "2026.10.22",
+    "Name": "2027年春闘、初動のモメンタムは現時点で良好 ～労働側、経営側とも昨年からのトーンダウンはみられず～",
+    "Link": "https://www.dlri.co.jp/files/macro/666813.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.11.06",
+    "Name": "実質賃金は９ヵ月連続プラス、夏のボーナスも大幅増（26年9月毎月勤労統計） ～先行きは物価上昇が懸念材料。実質賃金マイナス転化の可能性も～",
+    "Link": "https://www.dlri.co.jp/files/macro/672444.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.10.30",
+    "Name": "消費者物価指数（東京都区部・2026年10月） ～特殊要因剥落で表面上は鈍化も、物価上振れリスクは後退せず～",
+    "Link": "https://www.dlri.co.jp/files/macro/672250.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.11.02",
+    "Name": "2027年春闘の初動モメンタム・アップデート ～経労委報告原案と産別要求からも賃上げ意欲を確認～",
+    "Link": "https://www.dlri.co.jp/files/macro/672323.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.11.05",
+    "Name": "米国：高水準保つ非製造業と根強いインフレ圧力（2026年10月ISM）  ～FRBの12月追加利上げ・高金利長期化シナリオを補強、ドル高圧力に～",
+    "Link": "https://www.dlri.co.jp/files/macro/672413.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.10.19",
+    "Name": "パリは燃えている、揺れるフランス政治 ～大規模抗議が揺さぶる財政再建と大統領選挙～",
+    "Link": "https://www.dlri.co.jp/files/macro/666685.pdf"
   },
   {
     "Source": "DLRI",
@@ -457,9 +157,15 @@
   },
   {
     "Source": "DLRI",
-    "Date": "2026年10月９",
-    "Name": "経済財政諮問会議（2026年10月９日）解説 〜責任ある積極財政に基づく『中長期経済財政計画』の実行～多角的な分析・検証に基づく柔軟な経済財政運営～",
-    "Link": "https://www.dlri.co.jp/files/macro/666595.pdf"
+    "Date": "2026.11.04",
+    "Name": "米中間選挙で民主党が大勝 ～出口調査からみる共和党の敗因～",
+    "Link": "https://www.dlri.co.jp/files/macro/672396.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.10.26",
+    "Name": "米国：低迷する住宅市場 ～住宅購入コストはコロナ以降に倍増～",
+    "Link": "https://www.dlri.co.jp/files/macro/666846.pdf"
   },
   {
     "Source": "DLRI",
@@ -469,81 +175,21 @@
   },
   {
     "Source": "DLRI",
-    "Date": "2026.10.27",
-    "Name": "秋の中銀祭のポイント",
-    "Link": "https://www.dlri.co.jp/files/macro/666889.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.10.27",
-    "Name": "AI・半導体で韓国景気は堅調も、「Ｋ字型」の様相が一段と鮮明に ～家計部門の低迷が李政権の重しとなる可能性～",
-    "Link": "https://www.dlri.co.jp/files/macro/666904.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.10.29",
-    "Name": "発足１００日の英バーナム政権 ～改革公約と財政制約の壁～",
-    "Link": "https://www.dlri.co.jp/files/macro/672224.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.10.30",
-    "Name": "日銀金融政策決定会合（2026年10月） ～基調的な物価上昇率の２％到達を認定、次の課題は「定着」～",
-    "Link": "https://www.dlri.co.jp/files/macro/672292.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.10.21",
-    "Name": "弱含む動きをみせてきた豪ドル相場は持ち直しに向かうか ～RBAハウザー副総裁のインフレ警戒発言、FRBの追加利上げ観測後退も追い風となるか～",
-    "Link": "https://www.dlri.co.jp/files/macro/666763.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026年10月29",
-    "Name": "経済財政諮問会議（2026年10月29日）解説 〜予算編成の抜本見直しの具体化、ＡＩによる経済・社会の変革を見据えた政策形成に向けて～",
-    "Link": "https://www.dlri.co.jp/files/macro/672380.pdf"
-  },
-  {
-    "Source": "DLRI",
     "Date": "2026.10.23",
     "Name": "消費者物価指数（全国・2026年9月） ～財を中心に物価上昇圧力強まる。＋３％台も視野～",
     "Link": "https://www.dlri.co.jp/files/macro/666835.pdf"
   },
   {
     "Source": "DLRI",
-    "Date": "2026.11.04",
-    "Name": "米中間選挙で民主党が大勝 ～出口調査からみる共和党の敗因～",
-    "Link": "https://www.dlri.co.jp/files/macro/672396.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.10.28",
-    "Name": "米国：民主党勝利で政策は変わるのか？ ～フィリバスターと大統領拒否権の壁～",
-    "Link": "https://www.dlri.co.jp/files/macro/666948.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.10.28",
-    "Name": "豪ドル相場に持ち直しの兆し、RBAによる追加利上げ観測が再燃 ～住宅市場の調整が懸念される一方、根強いインフレ圧力が金融引き締め継続を後押し～",
-    "Link": "https://www.dlri.co.jp/files/macro/666938.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.10.16",
-    "Name": "急落した半導体株の健康診断",
-    "Link": "https://www.dlri.co.jp/files/macro/666607.pdf"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026.10.23",
-    "Name": "米国：10月PMIが示すFRBの金融引き締め長期化シナリオ  ～堅調なGDP成長のもとで強まるインフレ粘着性とターミナルレート上昇～",
-    "Link": "https://www.dlri.co.jp/files/macro/666843.pdf"
-  },
-  {
-    "Source": "DLRI",
     "Date": "2026.10.30",
-    "Name": "ラガルド総裁下のＥＣＢを振り返る ～金融政策の専門家ではない総裁の実績～",
-    "Link": "https://www.dlri.co.jp/files/macro/672253.pdf"
+    "Name": "2026年7-9月期GDP予測（1次速報） ～前期比年率＋0.4％と予想。成長率は鈍化も、景気回復の流れは崩れず～",
+    "Link": "https://www.dlri.co.jp/files/macro/672304.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.10.22",
+    "Name": "158円を挟んで膠着するドル円相場 ～中間選挙・イラン・金融政策の“三つの分岐点”が方向性を決める～",
+    "Link": "https://www.dlri.co.jp/files/macro/666804.pdf"
   },
   {
     "Source": "DLRI",
@@ -554,8 +200,224 @@
   {
     "Source": "DLRI",
     "Date": "2026.10.29",
+    "Name": "発足１００日の英バーナム政権 ～改革公約と財政制約の壁～",
+    "Link": "https://www.dlri.co.jp/files/macro/672224.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.10.28",
+    "Name": "米国：民主党勝利で政策は変わるのか？ ～フィリバスターと大統領拒否権の壁～",
+    "Link": "https://www.dlri.co.jp/files/macro/666948.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.10.28",
+    "Name": "出生世代別にみる家計金融資産の増加 ～インフレ転換で変わる日本の家計②～",
+    "Link": "https://www.dlri.co.jp/files/macro/666928.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.10.29",
+    "Name": "AI関連投資の失速は日本にどう波及するか ～日銀の金融システムレポートから考察する三つの経路～",
+    "Link": "https://www.dlri.co.jp/files/asset/672206.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.10.20",
+    "Name": "預金再考 ～「貯蓄から投資へ」をアップデートする～",
+    "Link": "https://www.dlri.co.jp/files/asset/666720.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.10.26",
+    "Name": "フランス国債売りは行きすぎか？ ～格下げ回避で一息も、政権交代後の財政運営に潜むリスク～",
+    "Link": "https://www.dlri.co.jp/files/macro/666851.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.10.20",
+    "Name": "ここが知りたい『投資信託販売チャネルの変化と現在地』",
+    "Link": "https://www.dlri.co.jp/files/dlri/666662.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.10.30",
+    "Name": "ラガルド総裁下のＥＣＢを振り返る ～金融政策の専門家ではない総裁の実績～",
+    "Link": "https://www.dlri.co.jp/files/macro/672253.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.10.29",
     "Name": "９月FD-ID指数 ～企業のコスト上昇圧力が小売価格へ転嫁され始めている可能性～",
     "Link": "https://www.dlri.co.jp/files/macro/672237.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.11.02",
+    "Name": "米国：中間選挙アップデート（2026年11月） ～期日前投票でも民主党に勢い～",
+    "Link": "https://www.dlri.co.jp/files/macro/672308.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.10.29",
+    "Name": "米国：消費・ＡＩ投資主導で年率＋3.4％へ加速（26年7-9月期ＧＤＰ)  ～力強い内需と高止まりするインフレが継続、ＦＲＢの追加利上げを後押し～",
+    "Link": "https://www.dlri.co.jp/files/macro/672240.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.10.28",
+    "Name": "市場全体の「ベータを高める」システムレベル投資とは ～ユニバーサルオーナー理論によるサステナブルファイナンスの新しい評価～",
+    "Link": "https://www.dlri.co.jp/files/asset/666925.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.10.28",
+    "Name": "ガソリン補助金の段階的縮小を巡る論点 ～物価上振れ・家計負担増と財政負担のジレンマ～",
+    "Link": "https://www.dlri.co.jp/files/macro/666941.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.11.06",
+    "Name": "英中銀、３年ぶりの利上げを決定 ～追加利上げは慎重に判断～",
+    "Link": "https://www.dlri.co.jp/files/macro/672457.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026年10月29",
+    "Name": "経済財政諮問会議（2026年10月29日）解説 〜予算編成の抜本見直しの具体化、ＡＩによる経済・社会の変革を見据えた政策形成に向けて～",
+    "Link": "https://www.dlri.co.jp/files/macro/672380.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.10.23",
+    "Name": "米国：10月PMIが示すFRBの金融引き締め長期化シナリオ  ～堅調なGDP成長のもとで強まるインフレ粘着性とターミナルレート上昇～",
+    "Link": "https://www.dlri.co.jp/files/macro/666843.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.10.29",
+    "Name": "金利上昇下で問われるJ-REITの収益力 ～借換え負担と資金配分に着目して～",
+    "Link": "https://www.dlri.co.jp/files/asset/672221.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.10.29",
+    "Name": "口座情報へのサイバー攻撃に「能動的防御」は発動されるか ～能動的サイバー防御とサイバー対処能力強化法・整備法～",
+    "Link": "https://www.dlri.co.jp/files/asset/672200.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.10.20",
+    "Name": "時事雑感(2026年11月号)",
+    "Link": "https://www.dlri.co.jp/files/dlri/666670.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.10.30",
+    "Name": "インフレ警戒も利上げを急がないＥＣＢ ～長期金利上昇が追加利上げ判断を複雑に～",
+    "Link": "https://www.dlri.co.jp/files/macro/672267.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.10.20",
+    "Name": "注目のキーワード『金融レジリエンス』",
+    "Link": "https://www.dlri.co.jp/files/dlri/666667.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026年10月27",
+    "Name": "ＦＲＢ、10月FOMCは3.75～4.00％に据え置きもタカ派的 （2026年10月27～28日ＦＯＭＣ）   ～景気判断上方修正と2名反対、中間選挙後の12月に利上げへ～",
+    "Link": "https://www.dlri.co.jp/files/macro/672203.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.10.19",
+    "Name": "米国2026年9月小売売上高は予想を大幅に上振れ   ～高金利下での消費堅調が示すFRBの高金利長期化スタンス～",
+    "Link": "https://www.dlri.co.jp/files/macro/666676.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.10.27",
+    "Name": "利上げ局面で低下に転じている債券利回り ～景気減速懸念などリスクオフによる金利低下か～",
+    "Link": "https://www.dlri.co.jp/files/macro/666892.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.10.20",
+    "Name": "アジア・パシフィック経済マンスリー：2026年10月 ～AI特需の加速とインフレの再燃～",
+    "Link": "https://www.dlri.co.jp/files/macro/666726.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.11.04",
+    "Name": "米国10月ISM製造業指数は予想を上振れ、仕入価格は高止まり   ～AI・防衛等の需要が底上げ、インフレ懸念に伴う米金利上昇・ドル強含みへ～",
+    "Link": "https://www.dlri.co.jp/files/macro/672377.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.10.30",
+    "Name": "日銀金融政策決定会合（2026年10月） ～基調的な物価上昇率の２％到達を認定、次の課題は「定着」～",
+    "Link": "https://www.dlri.co.jp/files/macro/672292.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.10.19",
+    "Name": "米国：自動車の急減も鉱工業生産は急拡大(2026年9月)   ～記録的猛暑とAI需要が押し上げるも、稼働率は依然低水準～",
+    "Link": "https://www.dlri.co.jp/files/macro/666704.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.10.20",
+    "Name": "内外経済ウォッチ『アジア・新興国～AI半導体は韓国景気に追い風も､政治の逆風が続く～』(2026年11月号)",
+    "Link": "https://www.dlri.co.jp/files/dlri/666659.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.10.27",
+    "Name": "９月企業向けサービス価格指数 ～前年比＋3.7％、国際運輸を中心に幾分加速～",
+    "Link": "https://www.dlri.co.jp/files/macro/666907.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.11.04",
+    "Name": "RBAは２回連続の利上げ決定も、景気減速懸念で追加利上げには慎重姿勢 ～インフレ圧力の根強さが利上げを促すも、景気下振れ懸念や追加利上げ期待の後退が豪ドルの重しに～",
+    "Link": "https://www.dlri.co.jp/files/macro/672352.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.10.21",
+    "Name": "米国26年9月住宅着工はパンデミック以来の低水準   ～予想外の3カ月連続減少、トランプ政権の関税・高金利が悪影響～",
+    "Link": "https://www.dlri.co.jp/files/macro/666760.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.11.05",
+    "Name": "インドネシア経済は堅調な成長続くも、その持続性には不透明感が残る ～７-９月GDPは加速も、金融市場の混乱長期化、高成長と投資低迷の乖離に懸念～",
+    "Link": "https://www.dlri.co.jp/files/macro/672410.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.10.22",
+    "Name": "2026年10月FOMCプレビュー ～インフレ認識とAI投資の持続性～",
+    "Link": "https://www.dlri.co.jp/files/macro/666789.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.10.21",
+    "Name": "米国経済マンスリー：2026年10月 ～景気が堅調ななか、インフレ高止まりへの懸念が持続～",
+    "Link": "https://www.dlri.co.jp/files/macro/666772.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.10.20",
+    "Name": "イベントカレンダー『各国の主要政治・経済イベント予定』(2026年11月号)",
+    "Link": "https://www.dlri.co.jp/files/dlri/666642.pdf"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026.10.20",
+    "Name": "内外経済ウォッチ『日本～米国の「リフレ脱却」要請と日米経済政策の実態～』(2026年11月号)",
+    "Link": "https://www.dlri.co.jp/files/dlri/666647.pdf"
   },
   {
     "Source": "JRI",
@@ -604,6 +466,12 @@
     "Date": "2026年10月08日",
     "Name": "原油市場展望2026年10月号　～トピック：ホルムズ海峡「封鎖」でも増加する中東の原油輸出（PDF：1112KB）",
     "Link": "https://www.jri.co.jp/file/report/oil/pdf/17037.pdf"
+  },
+  {
+    "Source": "MURC",
+    "Date": "2026/11/05",
+    "Name": "今月のグラフ（2026年11月）銅価格、高値圏で推移",
+    "Link": "https://www.murc.jp/wp-content/uploads/2026/11/watch_2611_01.pdf"
   },
   {
     "Source": "MURC",
@@ -678,10 +546,16 @@
     "Link": "https://www.murc.jp/wp-content/uploads/2026/10/gr_kansai_2610_01.pdf"
   },
   {
-    "Source": "MURC",
-    "Date": "2026/10/07",
-    "Name": "スペインは解散総選挙へ",
-    "Link": "https://www.murc.jp/wp-content/uploads/2026/10/report_261007_01.pdf"
+    "Source": "NLI",
+    "Date": "2026年11月05日",
+    "Name": "インドネシアGDP（26年7-9月期）～成長率は5.47％に加速、製造業とサービス業が牽引",
+    "Link": "https://www.nli-research.co.jp/files/topics/87262_ext_18_0.pdf?site=nli"
+  },
+  {
+    "Source": "NLI",
+    "Date": "2026年11月05日",
+    "Name": "ユーロ圏消費者物価（26年10月）－総合指数は前年比で4.0％まで上昇",
+    "Link": "https://www.nli-research.co.jp/files/topics/87261_ext_18_0.pdf?site=nli"
   },
   {
     "Source": "NLI",
@@ -733,18 +607,6 @@
   },
   {
     "Source": "NLI",
-    "Date": "2026年10月30日",
-    "Name": "鉱工業生産26年9月－熊本地震や台風・豪雨の影響を受けながらも、7-9月期は小幅な増産を確保",
-    "Link": "https://www.nli-research.co.jp/files/topics/87223_ext_18_0.pdf?site=nli"
-  },
-  {
-    "Source": "NLI",
-    "Date": "2026年10月30日",
-    "Name": "雇用関連統計2026年９月－就業者数は振れが大きい中で増加傾向",
-    "Link": "https://www.nli-research.co.jp/files/topics/87224_ext_18_0.pdf?site=nli"
-  },
-  {
-    "Source": "NLI",
     "Date": "2026年10月14日",
     "Name": "ＩＭＦ世界経済見通し－世界経済はよく持ちこたえていると評価",
     "Link": "https://www.nli-research.co.jp/files/topics/87014_ext_18_0.pdf?site=nli"
@@ -769,6 +631,18 @@
   },
   {
     "Source": "NLI",
+    "Date": "2026年10月30日",
+    "Name": "鉱工業生産26年9月－熊本地震や台風・豪雨の影響を受けながらも、7-9月期は小幅な増産...",
+    "Link": "https://www.nli-research.co.jp/files/topics/87223_ext_18_0.pdf?site=nli"
+  },
+  {
+    "Source": "NLI",
+    "Date": "2026年10月30日",
+    "Name": "雇用関連統計2026年９月－就業者数は振れが大きい中で増加傾向",
+    "Link": "https://www.nli-research.co.jp/files/topics/87224_ext_18_0.pdf?site=nli"
+  },
+  {
+    "Source": "NLI",
     "Date": "2026年10月29日",
     "Name": "国民経済計算と家計調査の家計貯蓄率はなぜ乖離するのか",
     "Link": "https://www.nli-research.co.jp/files/topics/87222_ext_18_0.pdf?site=nli"
@@ -784,17 +658,5 @@
     "Date": "2026年10月09日",
     "Name": "グローバル経済・金利ウォッチ",
     "Link": "https://www.sonyfg.co.jp/ja/market_report/pdf/g_261009_01.pdf"
-  },
-  {
-    "Source": "Sony FG",
-    "Date": "2026年10月07日",
-    "Name": "Monthly Global Market Report",
-    "Link": "https://www.sonyfg.co.jp/ja/market_report/pdf/m_261007_01.pdf"
-  },
-  {
-    "Source": "Sony FG",
-    "Date": "2026年10月07日",
-    "Name": "金融・経済見通し",
-    "Link": "https://www.sonyfg.co.jp/ja/market_report/pdf/kkm_261007_01.pdf"
   }
 ]
